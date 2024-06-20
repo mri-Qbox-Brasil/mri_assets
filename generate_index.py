@@ -7,7 +7,10 @@ def generate_index(directory):
 
     OMIT_FILES = ['generate_index.py', 'README.md', '.github', '.git', 'index.html', 'CNAME']
 
-    html_content = '''
+    parent_directory = os.path.dirname(directory)
+    parent_link = f'../index.html' if parent_directory != '.' else './index.html'
+
+    html_content = f'''
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -19,7 +22,8 @@ def generate_index(directory):
     </head>
     <body>
         <div class="container mt-5">
-            <h1 class="mb-4">Lista de Arquivos e Diretórios</h1>
+            <h1 class="mb-4">Lista de Arquivos e Diretórios - {os.path.basename(directory)}</h1>
+            <a href="{parent_link}" class="btn btn-primary mb-3">Voltar</a>
             <ul class="list-group">
     '''
 
