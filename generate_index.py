@@ -5,7 +5,7 @@ def generate_index(directory):
     items = os.listdir(directory)
     output_file = os.path.join(directory, 'index.html')
 
-    OMIT_FILES = ['generate_index.py', 'README.md', '.github', '.git']
+    OMIT_FILES = ['generate_index.py', 'README.md', '.github', '.git', 'index.html', 'CNAME']
 
     html_content = '''
     <!DOCTYPE html>
