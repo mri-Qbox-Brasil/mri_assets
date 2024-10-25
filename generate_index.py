@@ -16,7 +16,6 @@ def generate_index(directory, current_path=''):
             breadcrumb_path = os.path.join(breadcrumb_path, part)
             breadcrumbs.append('<li><i class="fa-solid fa-angle-right"></i></li>')
             if i == len(path_parts) - 1:
-                # Não criar link para o diretório atual
                 breadcrumbs.append(f'<li><strong><span>{part}</span></strong></li>')
             else:
                 breadcrumbs.append(f'<li><a href="{breadcrumb_path}/index.html">{part}</a></li>')
@@ -34,6 +33,27 @@ def generate_index(directory, current_path=''):
         <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
         <!-- Font Awesome -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <style>
+            /* Estilos para o tema escuro */
+            body.dark-mode {{
+                background-color: #121212;
+                color: #ffffff;
+            }}
+            .dark-mode .list-group-item {{
+                background-color: #333333;
+                color: #ffffff;
+            }}
+            .dark-mode .breadcrumb-item a, .dark-mode a {{
+                color: #ffffff;
+            }}
+            .theme-toggle-btn {{
+                cursor: pointer;
+                position: fixed;
+                top: 10px;
+                right: 10px;
+                z-index: 1000;
+            }}
+        </style>
     </head>
     <body>
         <div class="container mt-5">
@@ -49,6 +69,7 @@ def generate_index(directory, current_path=''):
                     {breadcrumbs_html}
                 </ol>
             </nav>
+            <button class="btn btn-dark theme-toggle-btn" onclick="toggleTheme()">Toggle Theme</button>
             <ul class="list-group">
     '''
 
@@ -59,11 +80,28 @@ def generate_index(directory, current_path=''):
                 html_content += f'<li class="list-group-item"><a href="{item}" download><strong>{item}</strong></a></li>'
             elif os.path.isdir(item_path):
                 html_content += f'<li class="list-group-item"><a href="{item}/index.html"><strong>{item}/</strong></a></li>'
-                generate_index(item_path, os.path.join(current_path, item))  # Chamada recursiva
+                generate_index(item_path, os.path.join(current_path, item))
 
     html_content += '''
             </ul>
         </div>
+        <!-- JavaScript para alternar tema -->
+        <script>
+            // Carregar o tema salvo
+            document.addEventListener("DOMContentLoaded", () => {{
+                const theme = localStorage.getItem('theme');
+                if (theme === 'dark') {{
+                    document.body.classList.add('dark-mode');
+                }}
+            }});
+
+            // Alternar tema
+            function toggleTheme() {{
+                document.body.classList.toggle('dark-mode');
+                const theme = document.body.classList.contains('dark-mode') ? 'dark' : 'light';
+                localStorage.setItem('theme', theme);
+            }}
+        </script>
         <!-- Bootstrap JS and dependencies -->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/js/all.min.js" integrity="sha512-6sSYJqDreZRZGkJ3b+YfdhB3MzmuP9R7X1QZ6g5aIXhRvR1Y/N/P47jmnkENm7YL3oqsmI6AK+V6AD99uWDnIw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
