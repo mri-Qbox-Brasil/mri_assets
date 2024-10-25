@@ -43,7 +43,10 @@ def generate_index(directory, current_path=''):
                 background-color: #333333;
                 color: #ffffff;
             }}
-            .dark-mode .breadcrumb-item a, .dark-mode a {{
+            .dark-mode .breadcrumb {{
+                background-color: #333333;
+            }}
+            .dark-mode .breadcrumb-item, .dark-mode .breadcrumb-item a {{
                 color: #ffffff;
             }}
             .theme-toggle-btn {{
@@ -52,6 +55,13 @@ def generate_index(directory, current_path=''):
                 top: 10px;
                 right: 10px;
                 z-index: 1000;
+                background: none;
+                border: none;
+                font-size: 1.5em;
+                color: #333;
+            }}
+            .dark-mode .theme-toggle-btn {{
+                color: #ffffff;
             }}
         </style>
     </head>
@@ -69,7 +79,9 @@ def generate_index(directory, current_path=''):
                     {breadcrumbs_html}
                 </ol>
             </nav>
-            <button class="btn btn-dark theme-toggle-btn" onclick="toggleTheme()">Toggle Theme</button>
+            <button class="theme-toggle-btn" onclick="toggleTheme()">
+                <i id="theme-icon" class="fas fa-moon"></i>
+            </button>
             <ul class="list-group">
     '''
 
@@ -87,20 +99,28 @@ def generate_index(directory, current_path=''):
         </div>
         <!-- JavaScript para alternar tema -->
         <script>
-            // Carregar o tema salvo
-            document.addEventListener("DOMContentLoaded", () => {{
+            document.addEventListener("DOMContentLoaded", () => {
                 const theme = localStorage.getItem('theme');
-                if (theme === 'dark') {{
+                const themeIcon = document.getElementById('theme-icon');
+                if (theme === 'dark') {
                     document.body.classList.add('dark-mode');
-                }}
-            }});
+                    themeIcon.classList.replace('fa-moon', 'fa-sun');
+                }
+            });
 
-            // Alternar tema
-            function toggleTheme() {{
+            function toggleTheme() {
                 document.body.classList.toggle('dark-mode');
+                const themeIcon = document.getElementById('theme-icon');
                 const theme = document.body.classList.contains('dark-mode') ? 'dark' : 'light';
                 localStorage.setItem('theme', theme);
-            }}
+
+                // Alterar ícone
+                if (theme === 'dark') {
+                    themeIcon.classList.replace('fa-moon', 'fa-sun');
+                } else {
+                    themeIcon.classList.replace('fa-sun', 'fa-moon');
+                }
+            }
         </script>
         <!-- Bootstrap JS and dependencies -->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/js/all.min.js" integrity="sha512-6sSYJqDreZRZGkJ3b+YfdhB3MzmuP9R7X1QZ6g5aIXhRvR1Y/N/P47jmnkENm7YL3oqsmI6AK+V6AD99uWDnIw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
