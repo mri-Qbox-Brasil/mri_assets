@@ -9,6 +9,27 @@
         <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
         <!-- Font Awesome -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <style>
+            /* Estilos para o tema escuro */
+            body.dark-mode {
+                background-color: #121212;
+                color: #ffffff;
+            }
+            .dark-mode .list-group-item {
+                background-color: #333333;
+                color: #ffffff;
+            }
+            .dark-mode .breadcrumb-item a, .dark-mode a {
+                color: #ffffff;
+            }
+            .theme-toggle-btn {
+                cursor: pointer;
+                position: fixed;
+                top: 10px;
+                right: 10px;
+                z-index: 1000;
+            }
+        </style>
     </head>
     <body>
         <div class="container mt-5">
@@ -24,10 +45,28 @@
                     <li><i class="fa-solid fa-angle-right"></i></li><li><strong><span>props</span></strong></li>
                 </ol>
             </nav>
+            <button class="btn btn-dark theme-toggle-btn" onclick="toggleTheme()">Toggle Theme</button>
             <ul class="list-group">
     <li class="list-group-item"><a href="gg_outdoor_anuncios.psd" download><strong>gg_outdoor_anuncios.psd</strong></a></li>
             </ul>
         </div>
+        <!-- JavaScript para alternar tema -->
+        <script>
+            // Carregar o tema salvo
+            document.addEventListener("DOMContentLoaded", () => {{
+                const theme = localStorage.getItem('theme');
+                if (theme === 'dark') {{
+                    document.body.classList.add('dark-mode');
+                }}
+            }});
+
+            // Alternar tema
+            function toggleTheme() {{
+                document.body.classList.toggle('dark-mode');
+                const theme = document.body.classList.contains('dark-mode') ? 'dark' : 'light';
+                localStorage.setItem('theme', theme);
+            }}
+        </script>
         <!-- Bootstrap JS and dependencies -->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/js/all.min.js" integrity="sha512-6sSYJqDreZRZGkJ3b+YfdhB3MzmuP9R7X1QZ6g5aIXhRvR1Y/N/P47jmnkENm7YL3oqsmI6AK+V6AD99uWDnIw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
