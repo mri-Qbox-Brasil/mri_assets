@@ -39,6 +39,56 @@
             .dark-mode .theme-toggle-btn {
                 color: #ffffff;
             }
+
+            /* Miniatura das imagens */
+            .thumb {
+                width: 48px;
+                height: 48px;
+                object-fit: cover;
+                margin-right: 12px;
+                cursor: pointer;
+                border-radius: 4px;
+                border: 1px solid rgba(0,0,0,0.1);
+            }
+
+            /* Modal de visualização */
+            .image-modal {
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background: rgba(0,0,0,0.7);
+                display: none;
+                align-items: center;
+                justify-content: center;
+                z-index: 2000;
+            }
+            .image-modal-content {
+                position: relative;
+                max-width: 95%;
+                max-height: 95%;
+            }
+            .image-modal-content img {
+                max-width: 100%;
+                max-height: 100%;
+                display: block;
+                border-radius: 6px;
+            }
+            .image-modal .close-btn {
+                position: absolute;
+                top: -10px;
+                right: -10px;
+                background: #fff;
+                border: none;
+                border-radius: 50%;
+                width: 34px;
+                height: 34px;
+                font-size: 20px;
+                line-height: 1;
+                cursor: pointer;
+                box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+            }
         </style>
     </head>
     <body>
@@ -59,10 +109,19 @@
                 <i id="theme-icon" class="fas fa-moon"></i>
             </button>
             <ul class="list-group">
-    <li class="list-group-item"><a href="dui/index.html"><strong>dui/</strong></a></li><li class="list-group-item"><a href="clothing/index.html"><strong>clothing/</strong></a></li><li class="list-group-item"><a href="branding/index.html"><strong>branding/</strong></a></li><li class="list-group-item"><a href="assets/index.html"><strong>assets/</strong></a></li><li class="list-group-item"><a href="scripts/index.html"><strong>scripts/</strong></a></li><li class="list-group-item"><a href="props/index.html"><strong>props/</strong></a></li>
+    <li class="list-group-item"><a href="assets/index.html"><strong>assets/</strong></a></li><li class="list-group-item"><a href="branding/index.html"><strong>branding/</strong></a></li><li class="list-group-item"><a href="clothing/index.html"><strong>clothing/</strong></a></li><li class="list-group-item"><a href="dui/index.html"><strong>dui/</strong></a></li><li class="list-group-item"><a href="props/index.html"><strong>props/</strong></a></li><li class="list-group-item"><a href="scripts/index.html"><strong>scripts/</strong></a></li>
             </ul>
         </div>
-        <!-- JavaScript para alternar tema -->
+
+        <!-- Modal de visualização de imagem -->
+        <div id="imageModal" class="image-modal" onclick="onModalClick(event)">
+            <div class="image-modal-content" onclick="event.stopPropagation()">
+                <button class="close-btn" onclick="closeImageModal()">&times;</button>
+                <img id="modalImage" src="" alt="Preview" />
+            </div>
+        </div>
+
+        <!-- JavaScript para alternar tema e modal -->
         <script>
             document.addEventListener("DOMContentLoaded", () => {
                 const theme = localStorage.getItem('theme');
@@ -84,6 +143,30 @@
                     themeIcon.classList.replace('fa-moon', 'fa-sun');
                 } else {
                     themeIcon.classList.replace('fa-sun', 'fa-moon');
+                }
+            }
+
+            // Abre o modal com a imagem passada
+            function openImageModal(src) {
+                const modal = document.getElementById('imageModal');
+                const modalImg = document.getElementById('modalImage');
+                modalImg.src = src;
+                modal.style.display = 'flex';
+            }
+
+            // Fecha o modal
+            function closeImageModal() {
+                const modal = document.getElementById('imageModal');
+                const modalImg = document.getElementById('modalImage');
+                modal.style.display = 'none';
+                modalImg.src = '';
+            }
+
+            // Fecha o modal ao clicar fora do conteúdo
+            function onModalClick(e) {
+                // se o clique for no overlay, fecha
+                if (e.target && e.target.id === 'imageModal') {
+                    closeImageModal();
                 }
             }
         </script>
