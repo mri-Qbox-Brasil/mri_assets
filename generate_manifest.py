@@ -4,7 +4,7 @@ import argparse
 
 # Configurações
 OMIT_FILES = {
-    'generate_index.py', 'README.md', '.github', '.git', 'index.html', 'CNAME', 'manifest.json', 'site-src', 'node_modules', 'dist'
+    'generate_manifest.py', 'README.md', '.github', '.git', 'index.html', 'CNAME', 'manifest.json', 'site-src', 'node_modules', 'dist'
 }
 OMIT_DIRS = {
     '.git', '.github', 'site-src', 'node_modules', 'dist', '__pycache__'
