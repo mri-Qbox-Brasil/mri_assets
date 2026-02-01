@@ -125,24 +125,35 @@ export const AssetExplorer: React.FC = () => {
   const paginatedItems = filteredItems.slice(startIndex, startIndex + ITEMS_PER_PAGE);
 
   return (
-    <div className="w-full p-6 min-h-screen bg-zinc-950 text-zinc-100 font-sans">
-      <header className="mb-6 flex flex-col md:flex-row items-center justify-between gap-4">
-        <h1 className="text-2xl font-bold flex items-center gap-2">
-            <span className="text-emerald-500">mri</span> Qbox Assets
-        </h1>
+    <div className="w-full min-h-screen bg-zinc-950 text-zinc-100 font-sans selection:bg-emerald-500/30">
+        {/* Sticky Header */}
+      <header className="sticky top-0 z-50 w-full border-b border-zinc-800/50 bg-zinc-950/80 backdrop-blur-xl supports-[backdrop-filter]:bg-zinc-950/60">
+        <div className="w-full max-w-[1920px] mx-auto px-6 h-16 flex items-center justify-between gap-4">
+            <h1 className="text-xl font-bold flex items-center gap-2 tracking-tight">
+                <span className="text-emerald-500">mri</span>
+                <span className="text-zinc-200">Qbox Assets</span>
+            </h1>
 
-        {/* Search Bar */}
-        <div className="relative w-full md:w-96">
-            <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-zinc-500 w-4 h-4" />
-            <input
-                type="text"
-                placeholder="Pesquisar nesta pasta..."
-                value={searchQuery}
-                onChange={(e) => setSearchQuery(e.target.value)}
-                className="w-full bg-zinc-900 border border-zinc-800 rounded-lg py-2 pl-10 pr-4 text-sm focus:outline-none focus:border-emerald-500 focus:ring-1 focus:ring-emerald-500 transition-all placeholder-zinc-600"
-            />
+            {/* Search Bar */}
+            <div className="relative w-full max-w-md group">
+                <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-zinc-500 w-4 h-4 group-focus-within:text-emerald-500 transition-colors" />
+                <input
+                    type="text"
+                    placeholder="Pesquisar..."
+                    value={searchQuery}
+                    onChange={(e) => setSearchQuery(e.target.value)}
+                    className="w-full bg-zinc-900/50 border border-zinc-800/50 rounded-lg py-2 pl-10 pr-12 text-sm focus:outline-none focus:border-emerald-500/50 focus:ring-4 focus:ring-emerald-500/10 transition-all placeholder-zinc-600 text-zinc-200"
+                />
+                <div className="absolute right-3 top-1/2 -translate-y-1/2 flex gap-1">
+                    <kbd className="hidden sm:inline-flex h-5 items-center gap-1 rounded border border-zinc-800 bg-zinc-900 px-1.5 font-mono text-[10px] font-medium text-zinc-500 shadow-sm opacity-50">
+                        <span className="text-xs">⌘</span>K
+                    </kbd>
+                </div>
+            </div>
         </div>
       </header>
+
+      <div className="max-w-[1920px] mx-auto p-6">
 
       {/* Breadcrumbs */}
       <nav className="flex items-center gap-2 text-sm text-zinc-400 mb-6 bg-zinc-900 p-3 rounded-lg border border-zinc-800 overflow-x-auto scrollbar-hide">
@@ -305,6 +316,7 @@ export const AssetExplorer: React.FC = () => {
             </div>
         </div>
       )}
+      </div>
     </div>
   );
 };
