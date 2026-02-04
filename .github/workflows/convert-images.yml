@@ -64,4 +64,5 @@ jobs:
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add .
         git commit -m 'Auto: Convert images to WebP' || echo "No changes to commit"
+        git pull --rebase origin main || git pull --rebase origin ${{ github.head_ref }}
         git push
