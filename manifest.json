@@ -12,10 +12,22 @@
           "size": 49538
         },
         {
+          "name": "02gate3_l.webp",
+          "path": "assets/02gate3_l.webp",
+          "type": "file",
+          "size": 12454
+        },
+        {
           "name": "apa_heist_apart2_door.jpg",
           "path": "assets/apa_heist_apart2_door.jpg",
           "type": "file",
           "size": 27947
+        },
+        {
+          "name": "apa_heist_apart2_door.webp",
+          "path": "assets/apa_heist_apart2_door.webp",
+          "type": "file",
+          "size": 9718
         },
         {
           "name": "apa_int_garage_wall_plug.jpg",
@@ -24,10 +36,22 @@
           "size": 30258
         },
         {
+          "name": "apa_int_garage_wall_plug.webp",
+          "path": "assets/apa_int_garage_wall_plug.webp",
+          "type": "file",
+          "size": 10906
+        },
+        {
           "name": "apa_mp_apa_crashed_usaf_01a.jpg",
           "path": "assets/apa_mp_apa_crashed_usaf_01a.jpg",
           "type": "file",
           "size": 41436
+        },
+        {
+          "name": "apa_mp_apa_crashed_usaf_01a.webp",
+          "path": "assets/apa_mp_apa_crashed_usaf_01a.webp",
+          "type": "file",
+          "size": 14404
         },
         {
           "name": "apa_mp_apa_y1_l1a.jpg",
@@ -36,10 +60,22 @@
           "size": 28863
         },
         {
+          "name": "apa_mp_apa_y1_l1a.webp",
+          "path": "assets/apa_mp_apa_y1_l1a.webp",
+          "type": "file",
+          "size": 9604
+        },
+        {
           "name": "apa_mp_apa_y1_l1b.jpg",
           "path": "assets/apa_mp_apa_y1_l1b.jpg",
           "type": "file",
           "size": 28797
+        },
+        {
+          "name": "apa_mp_apa_y1_l1b.webp",
+          "path": "assets/apa_mp_apa_y1_l1b.webp",
+          "type": "file",
+          "size": 9492
         },
         {
           "name": "apa_mp_apa_y1_l1c.jpg",
@@ -48,10 +84,22 @@
           "size": 28843
         },
         {
+          "name": "apa_mp_apa_y1_l1c.webp",
+          "path": "assets/apa_mp_apa_y1_l1c.webp",
+          "type": "file",
+          "size": 9502
+        },
+        {
           "name": "apa_mp_apa_y1_l1d.jpg",
           "path": "assets/apa_mp_apa_y1_l1d.jpg",
           "type": "file",
           "size": 28909
+        },
+        {
+          "name": "apa_mp_apa_y1_l1d.webp",
+          "path": "assets/apa_mp_apa_y1_l1d.webp",
+          "type": "file",
+          "size": 9648
         },
         {
           "name": "apa_mp_apa_y1_l2a.jpg",
@@ -60,10 +108,22 @@
           "size": 31924
         },
         {
+          "name": "apa_mp_apa_y1_l2a.webp",
+          "path": "assets/apa_mp_apa_y1_l2a.webp",
+          "type": "file",
+          "size": 10650
+        },
+        {
           "name": "apa_mp_apa_y1_l2b.jpg",
           "path": "assets/apa_mp_apa_y1_l2b.jpg",
           "type": "file",
           "size": 31121
+        },
+        {
+          "name": "apa_mp_apa_y1_l2b.webp",
+          "path": "assets/apa_mp_apa_y1_l2b.webp",
+          "type": "file",
+          "size": 10442
         },
         {
           "name": "apa_mp_apa_y1_l2c.jpg",
@@ -72,10 +132,22 @@
           "size": 30941
         },
         {
+          "name": "apa_mp_apa_y1_l2c.webp",
+          "path": "assets/apa_mp_apa_y1_l2c.webp",
+          "type": "file",
+          "size": 10368
+        },
+        {
           "name": "apa_mp_apa_y1_l2d.jpg",
           "path": "assets/apa_mp_apa_y1_l2d.jpg",
           "type": "file",
           "size": 31525
+        },
+        {
+          "name": "apa_mp_apa_y1_l2d.webp",
+          "path": "assets/apa_mp_apa_y1_l2d.webp",
+          "type": "file",
+          "size": 10392
         },
         {
           "name": "apa_mp_apa_y2_l1a.jpg",
@@ -84,10 +156,22 @@
           "size": 29039
         },
         {
+          "name": "apa_mp_apa_y2_l1a.webp",
+          "path": "assets/apa_mp_apa_y2_l1a.webp",
+          "type": "file",
+          "size": 9574
+        },
+        {
           "name": "apa_mp_apa_y2_l1b.jpg",
           "path": "assets/apa_mp_apa_y2_l1b.jpg",
           "type": "file",
           "size": 28538
+        },
+        {
+          "name": "apa_mp_apa_y2_l1b.webp",
+          "path": "assets/apa_mp_apa_y2_l1b.webp",
+          "type": "file",
+          "size": 9528
         },
         {
           "name": "apa_mp_apa_y2_l1c.jpg",
@@ -96,10 +180,22 @@
           "size": 28824
         },
         {
+          "name": "apa_mp_apa_y2_l1c.webp",
+          "path": "assets/apa_mp_apa_y2_l1c.webp",
+          "type": "file",
+          "size": 9556
+        },
+        {
           "name": "apa_mp_apa_y2_l1d.jpg",
           "path": "assets/apa_mp_apa_y2_l1d.jpg",
           "type": "file",
           "size": 29053
+        },
+        {
+          "name": "apa_mp_apa_y2_l1d.webp",
+          "path": "assets/apa_mp_apa_y2_l1d.webp",
+          "type": "file",
+          "size": 9588
         },
         {
           "name": "apa_mp_apa_y2_l2a.jpg",
@@ -108,10 +204,22 @@
           "size": 31579
         },
         {
+          "name": "apa_mp_apa_y2_l2a.webp",
+          "path": "assets/apa_mp_apa_y2_l2a.webp",
+          "type": "file",
+          "size": 10392
+        },
+        {
           "name": "apa_mp_apa_y2_l2b.jpg",
           "path": "assets/apa_mp_apa_y2_l2b.jpg",
           "type": "file",
           "size": 31037
+        },
+        {
+          "name": "apa_mp_apa_y2_l2b.webp",
+          "path": "assets/apa_mp_apa_y2_l2b.webp",
+          "type": "file",
+          "size": 10294
         },
         {
           "name": "apa_mp_apa_y2_l2c.jpg",
@@ -120,10 +228,22 @@
           "size": 30942
         },
         {
+          "name": "apa_mp_apa_y2_l2c.webp",
+          "path": "assets/apa_mp_apa_y2_l2c.webp",
+          "type": "file",
+          "size": 10250
+        },
+        {
           "name": "apa_mp_apa_y2_l2d.jpg",
           "path": "assets/apa_mp_apa_y2_l2d.jpg",
           "type": "file",
           "size": 32000
+        },
+        {
+          "name": "apa_mp_apa_y2_l2d.webp",
+          "path": "assets/apa_mp_apa_y2_l2d.webp",
+          "type": "file",
+          "size": 10592
         },
         {
           "name": "apa_mp_apa_y3_l1a.jpg",
@@ -132,10 +252,22 @@
           "size": 28644
         },
         {
+          "name": "apa_mp_apa_y3_l1a.webp",
+          "path": "assets/apa_mp_apa_y3_l1a.webp",
+          "type": "file",
+          "size": 9478
+        },
+        {
           "name": "apa_mp_apa_y3_l1b.jpg",
           "path": "assets/apa_mp_apa_y3_l1b.jpg",
           "type": "file",
           "size": 28459
+        },
+        {
+          "name": "apa_mp_apa_y3_l1b.webp",
+          "path": "assets/apa_mp_apa_y3_l1b.webp",
+          "type": "file",
+          "size": 9474
         },
         {
           "name": "apa_mp_apa_y3_l1c.jpg",
@@ -144,10 +276,22 @@
           "size": 28536
         },
         {
+          "name": "apa_mp_apa_y3_l1c.webp",
+          "path": "assets/apa_mp_apa_y3_l1c.webp",
+          "type": "file",
+          "size": 9500
+        },
+        {
           "name": "apa_mp_apa_y3_l1d.jpg",
           "path": "assets/apa_mp_apa_y3_l1d.jpg",
           "type": "file",
           "size": 28558
+        },
+        {
+          "name": "apa_mp_apa_y3_l1d.webp",
+          "path": "assets/apa_mp_apa_y3_l1d.webp",
+          "type": "file",
+          "size": 9500
         },
         {
           "name": "apa_mp_apa_y3_l2a.jpg",
@@ -156,10 +300,22 @@
           "size": 31843
         },
         {
+          "name": "apa_mp_apa_y3_l2a.webp",
+          "path": "assets/apa_mp_apa_y3_l2a.webp",
+          "type": "file",
+          "size": 10666
+        },
+        {
           "name": "apa_mp_apa_y3_l2b.jpg",
           "path": "assets/apa_mp_apa_y3_l2b.jpg",
           "type": "file",
           "size": 30691
+        },
+        {
+          "name": "apa_mp_apa_y3_l2b.webp",
+          "path": "assets/apa_mp_apa_y3_l2b.webp",
+          "type": "file",
+          "size": 10260
         },
         {
           "name": "apa_mp_apa_y3_l2c.jpg",
@@ -168,10 +324,22 @@
           "size": 30677
         },
         {
+          "name": "apa_mp_apa_y3_l2c.webp",
+          "path": "assets/apa_mp_apa_y3_l2c.webp",
+          "type": "file",
+          "size": 10174
+        },
+        {
           "name": "apa_mp_apa_y3_l2d.jpg",
           "path": "assets/apa_mp_apa_y3_l2d.jpg",
           "type": "file",
           "size": 31881
+        },
+        {
+          "name": "apa_mp_apa_y3_l2d.webp",
+          "path": "assets/apa_mp_apa_y3_l2d.webp",
+          "type": "file",
+          "size": 10574
         },
         {
           "name": "apa_mp_apa_yacht.jpg",
@@ -180,10 +348,22 @@
           "size": 43986
         },
         {
+          "name": "apa_mp_apa_yacht.webp",
+          "path": "assets/apa_mp_apa_yacht.webp",
+          "type": "file",
+          "size": 14890
+        },
+        {
           "name": "apa_mp_apa_yacht_door.jpg",
           "path": "assets/apa_mp_apa_yacht_door.jpg",
           "type": "file",
           "size": 28588
+        },
+        {
+          "name": "apa_mp_apa_yacht_door.webp",
+          "path": "assets/apa_mp_apa_yacht_door.webp",
+          "type": "file",
+          "size": 9654
         },
         {
           "name": "apa_mp_apa_yacht_door2.jpg",
@@ -192,10 +372,22 @@
           "size": 28295
         },
         {
+          "name": "apa_mp_apa_yacht_door2.webp",
+          "path": "assets/apa_mp_apa_yacht_door2.webp",
+          "type": "file",
+          "size": 9642
+        },
+        {
           "name": "apa_mp_apa_yacht_jacuzzi_cam.jpg",
           "path": "assets/apa_mp_apa_yacht_jacuzzi_cam.jpg",
           "type": "file",
           "size": 23948
+        },
+        {
+          "name": "apa_mp_apa_yacht_jacuzzi_cam.webp",
+          "path": "assets/apa_mp_apa_yacht_jacuzzi_cam.webp",
+          "type": "file",
+          "size": 7600
         },
         {
           "name": "apa_mp_apa_yacht_jacuzzi_ripple003.jpg",
@@ -204,10 +396,22 @@
           "size": 32771
         },
         {
+          "name": "apa_mp_apa_yacht_jacuzzi_ripple003.webp",
+          "path": "assets/apa_mp_apa_yacht_jacuzzi_ripple003.webp",
+          "type": "file",
+          "size": 11610
+        },
+        {
           "name": "apa_mp_apa_yacht_jacuzzi_ripple1.jpg",
           "path": "assets/apa_mp_apa_yacht_jacuzzi_ripple1.jpg",
           "type": "file",
           "size": 39406
+        },
+        {
+          "name": "apa_mp_apa_yacht_jacuzzi_ripple1.webp",
+          "path": "assets/apa_mp_apa_yacht_jacuzzi_ripple1.webp",
+          "type": "file",
+          "size": 15000
         },
         {
           "name": "apa_mp_apa_yacht_jacuzzi_ripple2.jpg",
@@ -216,10 +420,22 @@
           "size": 26470
         },
         {
+          "name": "apa_mp_apa_yacht_jacuzzi_ripple2.webp",
+          "path": "assets/apa_mp_apa_yacht_jacuzzi_ripple2.webp",
+          "type": "file",
+          "size": 8646
+        },
+        {
           "name": "apa_mp_apa_yacht_launcher_01a.jpg",
           "path": "assets/apa_mp_apa_yacht_launcher_01a.jpg",
           "type": "file",
           "size": 31482
+        },
+        {
+          "name": "apa_mp_apa_yacht_launcher_01a.webp",
+          "path": "assets/apa_mp_apa_yacht_launcher_01a.webp",
+          "type": "file",
+          "size": 10940
         },
         {
           "name": "apa_mp_apa_yacht_o1_rail_a.jpg",
@@ -228,10 +444,22 @@
           "size": 42369
         },
         {
+          "name": "apa_mp_apa_yacht_o1_rail_a.webp",
+          "path": "assets/apa_mp_apa_yacht_o1_rail_a.webp",
+          "type": "file",
+          "size": 16556
+        },
+        {
           "name": "apa_mp_apa_yacht_o1_rail_b.jpg",
           "path": "assets/apa_mp_apa_yacht_o1_rail_b.jpg",
           "type": "file",
           "size": 40471
+        },
+        {
+          "name": "apa_mp_apa_yacht_o1_rail_b.webp",
+          "path": "assets/apa_mp_apa_yacht_o1_rail_b.webp",
+          "type": "file",
+          "size": 15476
         },
         {
           "name": "apa_mp_apa_yacht_o2_rail_a.jpg",
@@ -240,10 +468,22 @@
           "size": 42412
         },
         {
+          "name": "apa_mp_apa_yacht_o2_rail_a.webp",
+          "path": "assets/apa_mp_apa_yacht_o2_rail_a.webp",
+          "type": "file",
+          "size": 16792
+        },
+        {
           "name": "apa_mp_apa_yacht_o2_rail_b.jpg",
           "path": "assets/apa_mp_apa_yacht_o2_rail_b.jpg",
           "type": "file",
           "size": 40543
+        },
+        {
+          "name": "apa_mp_apa_yacht_o2_rail_b.webp",
+          "path": "assets/apa_mp_apa_yacht_o2_rail_b.webp",
+          "type": "file",
+          "size": 15666
         },
         {
           "name": "apa_mp_apa_yacht_o3_rail_a.jpg",
@@ -252,10 +492,22 @@
           "size": 44839
         },
         {
+          "name": "apa_mp_apa_yacht_o3_rail_a.webp",
+          "path": "assets/apa_mp_apa_yacht_o3_rail_a.webp",
+          "type": "file",
+          "size": 17768
+        },
+        {
           "name": "apa_mp_apa_yacht_o3_rail_b.jpg",
           "path": "assets/apa_mp_apa_yacht_o3_rail_b.jpg",
           "type": "file",
           "size": 43005
+        },
+        {
+          "name": "apa_mp_apa_yacht_o3_rail_b.webp",
+          "path": "assets/apa_mp_apa_yacht_o3_rail_b.webp",
+          "type": "file",
+          "size": 16790
         },
         {
           "name": "apa_mp_apa_yacht_option1.jpg",
@@ -264,10 +516,22 @@
           "size": 33371
         },
         {
+          "name": "apa_mp_apa_yacht_option1.webp",
+          "path": "assets/apa_mp_apa_yacht_option1.webp",
+          "type": "file",
+          "size": 11652
+        },
+        {
           "name": "apa_mp_apa_yacht_option1_cola.jpg",
           "path": "assets/apa_mp_apa_yacht_option1_cola.jpg",
           "type": "file",
           "size": 27490
+        },
+        {
+          "name": "apa_mp_apa_yacht_option1_cola.webp",
+          "path": "assets/apa_mp_apa_yacht_option1_cola.webp",
+          "type": "file",
+          "size": 9080
         },
         {
           "name": "apa_mp_apa_yacht_option2.jpg",
@@ -276,10 +540,22 @@
           "size": 39204
         },
         {
+          "name": "apa_mp_apa_yacht_option2.webp",
+          "path": "assets/apa_mp_apa_yacht_option2.webp",
+          "type": "file",
+          "size": 14048
+        },
+        {
           "name": "apa_mp_apa_yacht_option2_cola.jpg",
           "path": "assets/apa_mp_apa_yacht_option2_cola.jpg",
           "type": "file",
           "size": 27389
+        },
+        {
+          "name": "apa_mp_apa_yacht_option2_cola.webp",
+          "path": "assets/apa_mp_apa_yacht_option2_cola.webp",
+          "type": "file",
+          "size": 8868
         },
         {
           "name": "apa_mp_apa_yacht_option2_colb.jpg",
@@ -288,10 +564,22 @@
           "size": 26850
         },
         {
+          "name": "apa_mp_apa_yacht_option2_colb.webp",
+          "path": "assets/apa_mp_apa_yacht_option2_colb.webp",
+          "type": "file",
+          "size": 8778
+        },
+        {
           "name": "apa_mp_apa_yacht_option3.jpg",
           "path": "assets/apa_mp_apa_yacht_option3.jpg",
           "type": "file",
           "size": 35215
+        },
+        {
+          "name": "apa_mp_apa_yacht_option3.webp",
+          "path": "assets/apa_mp_apa_yacht_option3.webp",
+          "type": "file",
+          "size": 12590
         },
         {
           "name": "apa_mp_apa_yacht_option3_cola.jpg",
@@ -300,10 +588,22 @@
           "size": 27092
         },
         {
+          "name": "apa_mp_apa_yacht_option3_cola.webp",
+          "path": "assets/apa_mp_apa_yacht_option3_cola.webp",
+          "type": "file",
+          "size": 9630
+        },
+        {
           "name": "apa_mp_apa_yacht_option3_colb.jpg",
           "path": "assets/apa_mp_apa_yacht_option3_colb.jpg",
           "type": "file",
           "size": 26700
+        },
+        {
+          "name": "apa_mp_apa_yacht_option3_colb.webp",
+          "path": "assets/apa_mp_apa_yacht_option3_colb.webp",
+          "type": "file",
+          "size": 8842
         },
         {
           "name": "apa_mp_apa_yacht_option3_colc.jpg",
@@ -312,10 +612,22 @@
           "size": 26649
         },
         {
+          "name": "apa_mp_apa_yacht_option3_colc.webp",
+          "path": "assets/apa_mp_apa_yacht_option3_colc.webp",
+          "type": "file",
+          "size": 9686
+        },
+        {
           "name": "apa_mp_apa_yacht_option3_cold.jpg",
           "path": "assets/apa_mp_apa_yacht_option3_cold.jpg",
           "type": "file",
           "size": 27011
+        },
+        {
+          "name": "apa_mp_apa_yacht_option3_cold.webp",
+          "path": "assets/apa_mp_apa_yacht_option3_cold.webp",
+          "type": "file",
+          "size": 8712
         },
         {
           "name": "apa_mp_apa_yacht_option3_cole.jpg",
@@ -324,10 +636,22 @@
           "size": 26469
         },
         {
+          "name": "apa_mp_apa_yacht_option3_cole.webp",
+          "path": "assets/apa_mp_apa_yacht_option3_cole.webp",
+          "type": "file",
+          "size": 9484
+        },
+        {
           "name": "apa_mp_apa_yacht_radar_01a.jpg",
           "path": "assets/apa_mp_apa_yacht_radar_01a.jpg",
           "type": "file",
           "size": 27585
+        },
+        {
+          "name": "apa_mp_apa_yacht_radar_01a.webp",
+          "path": "assets/apa_mp_apa_yacht_radar_01a.webp",
+          "type": "file",
+          "size": 9054
         },
         {
           "name": "apa_mp_apa_yacht_win.jpg",
@@ -336,10 +660,22 @@
           "size": 30541
         },
         {
+          "name": "apa_mp_apa_yacht_win.webp",
+          "path": "assets/apa_mp_apa_yacht_win.webp",
+          "type": "file",
+          "size": 10080
+        },
+        {
           "name": "apa_mp_h_acc_artwalll_01.jpg",
           "path": "assets/apa_mp_h_acc_artwalll_01.jpg",
           "type": "file",
           "size": 35706
+        },
+        {
+          "name": "apa_mp_h_acc_artwalll_01.webp",
+          "path": "assets/apa_mp_h_acc_artwalll_01.webp",
+          "type": "file",
+          "size": 12588
         },
         {
           "name": "apa_mp_h_acc_artwalll_02.jpg",
@@ -348,10 +684,22 @@
           "size": 43428
         },
         {
+          "name": "apa_mp_h_acc_artwalll_02.webp",
+          "path": "assets/apa_mp_h_acc_artwalll_02.webp",
+          "type": "file",
+          "size": 17834
+        },
+        {
           "name": "apa_mp_h_acc_artwalll_03.jpg",
           "path": "assets/apa_mp_h_acc_artwalll_03.jpg",
           "type": "file",
           "size": 38694
+        },
+        {
+          "name": "apa_mp_h_acc_artwalll_03.webp",
+          "path": "assets/apa_mp_h_acc_artwalll_03.webp",
+          "type": "file",
+          "size": 15096
         },
         {
           "name": "apa_mp_h_acc_artwallm_02.jpg",
@@ -360,10 +708,22 @@
           "size": 32196
         },
         {
+          "name": "apa_mp_h_acc_artwallm_02.webp",
+          "path": "assets/apa_mp_h_acc_artwallm_02.webp",
+          "type": "file",
+          "size": 12052
+        },
+        {
           "name": "apa_mp_h_acc_artwallm_03.jpg",
           "path": "assets/apa_mp_h_acc_artwallm_03.jpg",
           "type": "file",
           "size": 34040
+        },
+        {
+          "name": "apa_mp_h_acc_artwallm_03.webp",
+          "path": "assets/apa_mp_h_acc_artwallm_03.webp",
+          "type": "file",
+          "size": 13174
         },
         {
           "name": "apa_mp_h_acc_artwallm_04.jpg",
@@ -372,10 +732,22 @@
           "size": 33271
         },
         {
+          "name": "apa_mp_h_acc_artwallm_04.webp",
+          "path": "assets/apa_mp_h_acc_artwallm_04.webp",
+          "type": "file",
+          "size": 12346
+        },
+        {
           "name": "apa_mp_h_acc_bottle_01.jpg",
           "path": "assets/apa_mp_h_acc_bottle_01.jpg",
           "type": "file",
           "size": 18299
+        },
+        {
+          "name": "apa_mp_h_acc_bottle_01.webp",
+          "path": "assets/apa_mp_h_acc_bottle_01.webp",
+          "type": "file",
+          "size": 6018
         },
         {
           "name": "apa_mp_h_acc_bottle_02.jpg",
@@ -384,10 +756,22 @@
           "size": 19044
         },
         {
+          "name": "apa_mp_h_acc_bottle_02.webp",
+          "path": "assets/apa_mp_h_acc_bottle_02.webp",
+          "type": "file",
+          "size": 6208
+        },
+        {
           "name": "apa_mp_h_acc_bowl_ceramic_01.jpg",
           "path": "assets/apa_mp_h_acc_bowl_ceramic_01.jpg",
           "type": "file",
           "size": 20902
+        },
+        {
+          "name": "apa_mp_h_acc_bowl_ceramic_01.webp",
+          "path": "assets/apa_mp_h_acc_bowl_ceramic_01.webp",
+          "type": "file",
+          "size": 6964
         },
         {
           "name": "apa_mp_h_acc_box_trinket_01.jpg",
@@ -396,10 +780,22 @@
           "size": 21203
         },
         {
+          "name": "apa_mp_h_acc_box_trinket_01.webp",
+          "path": "assets/apa_mp_h_acc_box_trinket_01.webp",
+          "type": "file",
+          "size": 6856
+        },
+        {
           "name": "apa_mp_h_acc_box_trinket_02.jpg",
           "path": "assets/apa_mp_h_acc_box_trinket_02.jpg",
           "type": "file",
           "size": 21166
+        },
+        {
+          "name": "apa_mp_h_acc_box_trinket_02.webp",
+          "path": "assets/apa_mp_h_acc_box_trinket_02.webp",
+          "type": "file",
+          "size": 6826
         },
         {
           "name": "apa_mp_h_acc_candles_01.jpg",
@@ -408,10 +804,22 @@
           "size": 20350
         },
         {
+          "name": "apa_mp_h_acc_candles_01.webp",
+          "path": "assets/apa_mp_h_acc_candles_01.webp",
+          "type": "file",
+          "size": 6476
+        },
+        {
           "name": "apa_mp_h_acc_candles_02.jpg",
           "path": "assets/apa_mp_h_acc_candles_02.jpg",
           "type": "file",
           "size": 22879
+        },
+        {
+          "name": "apa_mp_h_acc_candles_02.webp",
+          "path": "assets/apa_mp_h_acc_candles_02.webp",
+          "type": "file",
+          "size": 7576
         },
         {
           "name": "apa_mp_h_acc_candles_04.jpg",
@@ -420,10 +828,22 @@
           "size": 18920
         },
         {
+          "name": "apa_mp_h_acc_candles_04.webp",
+          "path": "assets/apa_mp_h_acc_candles_04.webp",
+          "type": "file",
+          "size": 6082
+        },
+        {
           "name": "apa_mp_h_acc_candles_05.jpg",
           "path": "assets/apa_mp_h_acc_candles_05.jpg",
           "type": "file",
           "size": 18861
+        },
+        {
+          "name": "apa_mp_h_acc_candles_05.webp",
+          "path": "assets/apa_mp_h_acc_candles_05.webp",
+          "type": "file",
+          "size": 6298
         },
         {
           "name": "apa_mp_h_acc_candles_06.jpg",
@@ -432,10 +852,22 @@
           "size": 19885
         },
         {
+          "name": "apa_mp_h_acc_candles_06.webp",
+          "path": "assets/apa_mp_h_acc_candles_06.webp",
+          "type": "file",
+          "size": 6482
+        },
+        {
           "name": "apa_mp_h_acc_coffeemachine_01.jpg",
           "path": "assets/apa_mp_h_acc_coffeemachine_01.jpg",
           "type": "file",
           "size": 23293
+        },
+        {
+          "name": "apa_mp_h_acc_coffeemachine_01.webp",
+          "path": "assets/apa_mp_h_acc_coffeemachine_01.webp",
+          "type": "file",
+          "size": 7766
         },
         {
           "name": "apa_mp_h_acc_dec_head_01.jpg",
@@ -444,10 +876,22 @@
           "size": 20840
         },
         {
+          "name": "apa_mp_h_acc_dec_head_01.webp",
+          "path": "assets/apa_mp_h_acc_dec_head_01.webp",
+          "type": "file",
+          "size": 7018
+        },
+        {
           "name": "apa_mp_h_acc_dec_plate_01.jpg",
           "path": "assets/apa_mp_h_acc_dec_plate_01.jpg",
           "type": "file",
           "size": 24075
+        },
+        {
+          "name": "apa_mp_h_acc_dec_plate_01.webp",
+          "path": "assets/apa_mp_h_acc_dec_plate_01.webp",
+          "type": "file",
+          "size": 8618
         },
         {
           "name": "apa_mp_h_acc_dec_plate_02.jpg",
@@ -456,10 +900,22 @@
           "size": 24220
         },
         {
+          "name": "apa_mp_h_acc_dec_plate_02.webp",
+          "path": "assets/apa_mp_h_acc_dec_plate_02.webp",
+          "type": "file",
+          "size": 8912
+        },
+        {
           "name": "apa_mp_h_acc_dec_sculpt_01.jpg",
           "path": "assets/apa_mp_h_acc_dec_sculpt_01.jpg",
           "type": "file",
           "size": 19545
+        },
+        {
+          "name": "apa_mp_h_acc_dec_sculpt_01.webp",
+          "path": "assets/apa_mp_h_acc_dec_sculpt_01.webp",
+          "type": "file",
+          "size": 6610
         },
         {
           "name": "apa_mp_h_acc_dec_sculpt_02.jpg",
@@ -468,10 +924,22 @@
           "size": 22413
         },
         {
+          "name": "apa_mp_h_acc_dec_sculpt_02.webp",
+          "path": "assets/apa_mp_h_acc_dec_sculpt_02.webp",
+          "type": "file",
+          "size": 7842
+        },
+        {
           "name": "apa_mp_h_acc_dec_sculpt_03.jpg",
           "path": "assets/apa_mp_h_acc_dec_sculpt_03.jpg",
           "type": "file",
           "size": 19131
+        },
+        {
+          "name": "apa_mp_h_acc_dec_sculpt_03.webp",
+          "path": "assets/apa_mp_h_acc_dec_sculpt_03.webp",
+          "type": "file",
+          "size": 6510
         },
         {
           "name": "apa_mp_h_acc_drink_tray_02.jpg",
@@ -480,10 +948,22 @@
           "size": 21630
         },
         {
+          "name": "apa_mp_h_acc_drink_tray_02.webp",
+          "path": "assets/apa_mp_h_acc_drink_tray_02.webp",
+          "type": "file",
+          "size": 7260
+        },
+        {
           "name": "apa_mp_h_acc_fruitbowl_01.jpg",
           "path": "assets/apa_mp_h_acc_fruitbowl_01.jpg",
           "type": "file",
           "size": 22268
+        },
+        {
+          "name": "apa_mp_h_acc_fruitbowl_01.webp",
+          "path": "assets/apa_mp_h_acc_fruitbowl_01.webp",
+          "type": "file",
+          "size": 7482
         },
         {
           "name": "apa_mp_h_acc_fruitbowl_02.jpg",
@@ -492,10 +972,22 @@
           "size": 22453
         },
         {
+          "name": "apa_mp_h_acc_fruitbowl_02.webp",
+          "path": "assets/apa_mp_h_acc_fruitbowl_02.webp",
+          "type": "file",
+          "size": 7666
+        },
+        {
           "name": "apa_mp_h_acc_jar_02.jpg",
           "path": "assets/apa_mp_h_acc_jar_02.jpg",
           "type": "file",
           "size": 18366
+        },
+        {
+          "name": "apa_mp_h_acc_jar_02.webp",
+          "path": "assets/apa_mp_h_acc_jar_02.webp",
+          "type": "file",
+          "size": 6100
         },
         {
           "name": "apa_mp_h_acc_jar_03.jpg",
@@ -504,10 +996,22 @@
           "size": 18635
         },
         {
+          "name": "apa_mp_h_acc_jar_03.webp",
+          "path": "assets/apa_mp_h_acc_jar_03.webp",
+          "type": "file",
+          "size": 6198
+        },
+        {
           "name": "apa_mp_h_acc_jar_04.jpg",
           "path": "assets/apa_mp_h_acc_jar_04.jpg",
           "type": "file",
           "size": 20253
+        },
+        {
+          "name": "apa_mp_h_acc_jar_04.webp",
+          "path": "assets/apa_mp_h_acc_jar_04.webp",
+          "type": "file",
+          "size": 6568
         },
         {
           "name": "apa_mp_h_acc_phone_01.jpg",
@@ -516,10 +1020,22 @@
           "size": 20425
         },
         {
+          "name": "apa_mp_h_acc_phone_01.webp",
+          "path": "assets/apa_mp_h_acc_phone_01.webp",
+          "type": "file",
+          "size": 6746
+        },
+        {
           "name": "apa_mp_h_acc_plant_palm_01.jpg",
           "path": "assets/apa_mp_h_acc_plant_palm_01.jpg",
           "type": "file",
           "size": 44781
+        },
+        {
+          "name": "apa_mp_h_acc_plant_palm_01.webp",
+          "path": "assets/apa_mp_h_acc_plant_palm_01.webp",
+          "type": "file",
+          "size": 19402
         },
         {
           "name": "apa_mp_h_acc_plant_tall_01.jpg",
@@ -528,10 +1044,22 @@
           "size": 32727
         },
         {
+          "name": "apa_mp_h_acc_plant_tall_01.webp",
+          "path": "assets/apa_mp_h_acc_plant_tall_01.webp",
+          "type": "file",
+          "size": 12362
+        },
+        {
           "name": "apa_mp_h_acc_pot_pouri_01.jpg",
           "path": "assets/apa_mp_h_acc_pot_pouri_01.jpg",
           "type": "file",
           "size": 20989
+        },
+        {
+          "name": "apa_mp_h_acc_pot_pouri_01.webp",
+          "path": "assets/apa_mp_h_acc_pot_pouri_01.webp",
+          "type": "file",
+          "size": 6946
         },
         {
           "name": "apa_mp_h_acc_rugwooll_03.jpg",
@@ -540,10 +1068,22 @@
           "size": 34724
         },
         {
+          "name": "apa_mp_h_acc_rugwooll_03.webp",
+          "path": "assets/apa_mp_h_acc_rugwooll_03.webp",
+          "type": "file",
+          "size": 13358
+        },
+        {
           "name": "apa_mp_h_acc_rugwooll_04.jpg",
           "path": "assets/apa_mp_h_acc_rugwooll_04.jpg",
           "type": "file",
           "size": 32253
+        },
+        {
+          "name": "apa_mp_h_acc_rugwooll_04.webp",
+          "path": "assets/apa_mp_h_acc_rugwooll_04.webp",
+          "type": "file",
+          "size": 11016
         },
         {
           "name": "apa_mp_h_acc_rugwoolm_01.jpg",
@@ -552,10 +1092,22 @@
           "size": 29860
         },
         {
+          "name": "apa_mp_h_acc_rugwoolm_01.webp",
+          "path": "assets/apa_mp_h_acc_rugwoolm_01.webp",
+          "type": "file",
+          "size": 9712
+        },
+        {
           "name": "apa_mp_h_acc_rugwoolm_02.jpg",
           "path": "assets/apa_mp_h_acc_rugwoolm_02.jpg",
           "type": "file",
           "size": 31149
+        },
+        {
+          "name": "apa_mp_h_acc_rugwoolm_02.webp",
+          "path": "assets/apa_mp_h_acc_rugwoolm_02.webp",
+          "type": "file",
+          "size": 10308
         },
         {
           "name": "apa_mp_h_acc_rugwoolm_03.jpg",
@@ -564,10 +1116,22 @@
           "size": 30925
         },
         {
+          "name": "apa_mp_h_acc_rugwoolm_03.webp",
+          "path": "assets/apa_mp_h_acc_rugwoolm_03.webp",
+          "type": "file",
+          "size": 10226
+        },
+        {
           "name": "apa_mp_h_acc_rugwoolm_04.jpg",
           "path": "assets/apa_mp_h_acc_rugwoolm_04.jpg",
           "type": "file",
           "size": 29321
+        },
+        {
+          "name": "apa_mp_h_acc_rugwoolm_04.webp",
+          "path": "assets/apa_mp_h_acc_rugwoolm_04.webp",
+          "type": "file",
+          "size": 9418
         },
         {
           "name": "apa_mp_h_acc_rugwools_01.jpg",
@@ -576,10 +1140,22 @@
           "size": 32604
         },
         {
+          "name": "apa_mp_h_acc_rugwools_01.webp",
+          "path": "assets/apa_mp_h_acc_rugwools_01.webp",
+          "type": "file",
+          "size": 11756
+        },
+        {
           "name": "apa_mp_h_acc_rugwools_03.jpg",
           "path": "assets/apa_mp_h_acc_rugwools_03.jpg",
           "type": "file",
           "size": 31422
+        },
+        {
+          "name": "apa_mp_h_acc_rugwools_03.webp",
+          "path": "assets/apa_mp_h_acc_rugwools_03.webp",
+          "type": "file",
+          "size": 10342
         },
         {
           "name": "apa_mp_h_acc_scent_sticks_01.jpg",
@@ -588,10 +1164,22 @@
           "size": 17975
         },
         {
+          "name": "apa_mp_h_acc_scent_sticks_01.webp",
+          "path": "assets/apa_mp_h_acc_scent_sticks_01.webp",
+          "type": "file",
+          "size": 6002
+        },
+        {
           "name": "apa_mp_h_acc_tray_01.jpg",
           "path": "assets/apa_mp_h_acc_tray_01.jpg",
           "type": "file",
           "size": 23205
+        },
+        {
+          "name": "apa_mp_h_acc_tray_01.webp",
+          "path": "assets/apa_mp_h_acc_tray_01.webp",
+          "type": "file",
+          "size": 7698
         },
         {
           "name": "apa_mp_h_acc_vase_01.jpg",
@@ -600,10 +1188,22 @@
           "size": 24203
         },
         {
+          "name": "apa_mp_h_acc_vase_01.webp",
+          "path": "assets/apa_mp_h_acc_vase_01.webp",
+          "type": "file",
+          "size": 8488
+        },
+        {
           "name": "apa_mp_h_acc_vase_02.jpg",
           "path": "assets/apa_mp_h_acc_vase_02.jpg",
           "type": "file",
           "size": 21777
+        },
+        {
+          "name": "apa_mp_h_acc_vase_02.webp",
+          "path": "assets/apa_mp_h_acc_vase_02.webp",
+          "type": "file",
+          "size": 7374
         },
         {
           "name": "apa_mp_h_acc_vase_04.jpg",
@@ -612,10 +1212,22 @@
           "size": 18865
         },
         {
+          "name": "apa_mp_h_acc_vase_04.webp",
+          "path": "assets/apa_mp_h_acc_vase_04.webp",
+          "type": "file",
+          "size": 6206
+        },
+        {
           "name": "apa_mp_h_acc_vase_05.jpg",
           "path": "assets/apa_mp_h_acc_vase_05.jpg",
           "type": "file",
           "size": 19734
+        },
+        {
+          "name": "apa_mp_h_acc_vase_05.webp",
+          "path": "assets/apa_mp_h_acc_vase_05.webp",
+          "type": "file",
+          "size": 6472
         },
         {
           "name": "apa_mp_h_acc_vase_flowers_01.jpg",
@@ -624,10 +1236,22 @@
           "size": 29670
         },
         {
+          "name": "apa_mp_h_acc_vase_flowers_01.webp",
+          "path": "assets/apa_mp_h_acc_vase_flowers_01.webp",
+          "type": "file",
+          "size": 11188
+        },
+        {
           "name": "apa_mp_h_acc_vase_flowers_02.jpg",
           "path": "assets/apa_mp_h_acc_vase_flowers_02.jpg",
           "type": "file",
           "size": 28064
+        },
+        {
+          "name": "apa_mp_h_acc_vase_flowers_02.webp",
+          "path": "assets/apa_mp_h_acc_vase_flowers_02.webp",
+          "type": "file",
+          "size": 10700
         },
         {
           "name": "apa_mp_h_acc_vase_flowers_03.jpg",
@@ -636,10 +1260,22 @@
           "size": 29946
         },
         {
+          "name": "apa_mp_h_acc_vase_flowers_03.webp",
+          "path": "assets/apa_mp_h_acc_vase_flowers_03.webp",
+          "type": "file",
+          "size": 11254
+        },
+        {
           "name": "apa_mp_h_acc_vase_flowers_04.jpg",
           "path": "assets/apa_mp_h_acc_vase_flowers_04.jpg",
           "type": "file",
           "size": 25208
+        },
+        {
+          "name": "apa_mp_h_acc_vase_flowers_04.webp",
+          "path": "assets/apa_mp_h_acc_vase_flowers_04.webp",
+          "type": "file",
+          "size": 9110
         },
         {
           "name": "apa_mp_h_bathtub_01.jpg",
@@ -648,10 +1284,22 @@
           "size": 28234
         },
         {
+          "name": "apa_mp_h_bathtub_01.webp",
+          "path": "assets/apa_mp_h_bathtub_01.webp",
+          "type": "file",
+          "size": 9312
+        },
+        {
           "name": "apa_mp_h_bed_chestdrawer_02.jpg",
           "path": "assets/apa_mp_h_bed_chestdrawer_02.jpg",
           "type": "file",
           "size": 30400
+        },
+        {
+          "name": "apa_mp_h_bed_chestdrawer_02.webp",
+          "path": "assets/apa_mp_h_bed_chestdrawer_02.webp",
+          "type": "file",
+          "size": 10138
         },
         {
           "name": "apa_mp_h_bed_double_08.jpg",
@@ -660,10 +1308,22 @@
           "size": 42829
         },
         {
+          "name": "apa_mp_h_bed_double_08.webp",
+          "path": "assets/apa_mp_h_bed_double_08.webp",
+          "type": "file",
+          "size": 14068
+        },
+        {
           "name": "apa_mp_h_bed_double_09.jpg",
           "path": "assets/apa_mp_h_bed_double_09.jpg",
           "type": "file",
           "size": 48542
+        },
+        {
+          "name": "apa_mp_h_bed_double_09.webp",
+          "path": "assets/apa_mp_h_bed_double_09.webp",
+          "type": "file",
+          "size": 16356
         },
         {
           "name": "apa_mp_h_bed_table_wide_12.jpg",
@@ -672,10 +1332,22 @@
           "size": 29775
         },
         {
+          "name": "apa_mp_h_bed_table_wide_12.webp",
+          "path": "assets/apa_mp_h_bed_table_wide_12.webp",
+          "type": "file",
+          "size": 9856
+        },
+        {
           "name": "apa_mp_h_bed_wide_05.jpg",
           "path": "assets/apa_mp_h_bed_wide_05.jpg",
           "type": "file",
           "size": 44242
+        },
+        {
+          "name": "apa_mp_h_bed_wide_05.webp",
+          "path": "assets/apa_mp_h_bed_wide_05.webp",
+          "type": "file",
+          "size": 15346
         },
         {
           "name": "apa_mp_h_bed_with_table_02.jpg",
@@ -684,10 +1356,22 @@
           "size": 42361
         },
         {
+          "name": "apa_mp_h_bed_with_table_02.webp",
+          "path": "assets/apa_mp_h_bed_with_table_02.webp",
+          "type": "file",
+          "size": 14502
+        },
+        {
           "name": "apa_mp_h_ceiling_light_01.jpg",
           "path": "assets/apa_mp_h_ceiling_light_01.jpg",
           "type": "file",
           "size": 19003
+        },
+        {
+          "name": "apa_mp_h_ceiling_light_01.webp",
+          "path": "assets/apa_mp_h_ceiling_light_01.webp",
+          "type": "file",
+          "size": 6108
         },
         {
           "name": "apa_mp_h_ceiling_light_01_day.jpg",
@@ -696,10 +1380,22 @@
           "size": 19224
         },
         {
+          "name": "apa_mp_h_ceiling_light_01_day.webp",
+          "path": "assets/apa_mp_h_ceiling_light_01_day.webp",
+          "type": "file",
+          "size": 6062
+        },
+        {
           "name": "apa_mp_h_ceiling_light_02.jpg",
           "path": "assets/apa_mp_h_ceiling_light_02.jpg",
           "type": "file",
           "size": 19819
+        },
+        {
+          "name": "apa_mp_h_ceiling_light_02.webp",
+          "path": "assets/apa_mp_h_ceiling_light_02.webp",
+          "type": "file",
+          "size": 6292
         },
         {
           "name": "apa_mp_h_din_chair_04.jpg",
@@ -708,10 +1404,22 @@
           "size": 23336
         },
         {
+          "name": "apa_mp_h_din_chair_04.webp",
+          "path": "assets/apa_mp_h_din_chair_04.webp",
+          "type": "file",
+          "size": 8184
+        },
+        {
           "name": "apa_mp_h_din_chair_08.jpg",
           "path": "assets/apa_mp_h_din_chair_08.jpg",
           "type": "file",
           "size": 23567
+        },
+        {
+          "name": "apa_mp_h_din_chair_08.webp",
+          "path": "assets/apa_mp_h_din_chair_08.webp",
+          "type": "file",
+          "size": 8170
         },
         {
           "name": "apa_mp_h_din_chair_09.jpg",
@@ -720,10 +1428,22 @@
           "size": 27897
         },
         {
+          "name": "apa_mp_h_din_chair_09.webp",
+          "path": "assets/apa_mp_h_din_chair_09.webp",
+          "type": "file",
+          "size": 9806
+        },
+        {
           "name": "apa_mp_h_din_chair_12.jpg",
           "path": "assets/apa_mp_h_din_chair_12.jpg",
           "type": "file",
           "size": 25181
+        },
+        {
+          "name": "apa_mp_h_din_chair_12.webp",
+          "path": "assets/apa_mp_h_din_chair_12.webp",
+          "type": "file",
+          "size": 8644
         },
         {
           "name": "apa_mp_h_din_stool_04.jpg",
@@ -732,10 +1452,22 @@
           "size": 24938
         },
         {
+          "name": "apa_mp_h_din_stool_04.webp",
+          "path": "assets/apa_mp_h_din_stool_04.webp",
+          "type": "file",
+          "size": 8616
+        },
+        {
           "name": "apa_mp_h_din_table_01.jpg",
           "path": "assets/apa_mp_h_din_table_01.jpg",
           "type": "file",
           "size": 33949
+        },
+        {
+          "name": "apa_mp_h_din_table_01.webp",
+          "path": "assets/apa_mp_h_din_table_01.webp",
+          "type": "file",
+          "size": 11394
         },
         {
           "name": "apa_mp_h_din_table_04.jpg",
@@ -744,10 +1476,22 @@
           "size": 35915
         },
         {
+          "name": "apa_mp_h_din_table_04.webp",
+          "path": "assets/apa_mp_h_din_table_04.webp",
+          "type": "file",
+          "size": 12756
+        },
+        {
           "name": "apa_mp_h_din_table_06.jpg",
           "path": "assets/apa_mp_h_din_table_06.jpg",
           "type": "file",
           "size": 33160
+        },
+        {
+          "name": "apa_mp_h_din_table_06.webp",
+          "path": "assets/apa_mp_h_din_table_06.webp",
+          "type": "file",
+          "size": 11424
         },
         {
           "name": "apa_mp_h_din_table_11.jpg",
@@ -756,10 +1500,22 @@
           "size": 35860
         },
         {
+          "name": "apa_mp_h_din_table_11.webp",
+          "path": "assets/apa_mp_h_din_table_11.webp",
+          "type": "file",
+          "size": 12446
+        },
+        {
           "name": "apa_mp_h_floor_lamp_int_08.jpg",
           "path": "assets/apa_mp_h_floor_lamp_int_08.jpg",
           "type": "file",
           "size": 22223
+        },
+        {
+          "name": "apa_mp_h_floor_lamp_int_08.webp",
+          "path": "assets/apa_mp_h_floor_lamp_int_08.webp",
+          "type": "file",
+          "size": 7652
         },
         {
           "name": "apa_mp_h_floorlamp_a.jpg",
@@ -768,10 +1524,22 @@
           "size": 21775
         },
         {
+          "name": "apa_mp_h_floorlamp_a.webp",
+          "path": "assets/apa_mp_h_floorlamp_a.webp",
+          "type": "file",
+          "size": 7072
+        },
+        {
           "name": "apa_mp_h_floorlamp_b.jpg",
           "path": "assets/apa_mp_h_floorlamp_b.jpg",
           "type": "file",
           "size": 25731
+        },
+        {
+          "name": "apa_mp_h_floorlamp_b.webp",
+          "path": "assets/apa_mp_h_floorlamp_b.webp",
+          "type": "file",
+          "size": 8978
         },
         {
           "name": "apa_mp_h_floorlamp_c.jpg",
@@ -780,10 +1548,22 @@
           "size": 23869
         },
         {
+          "name": "apa_mp_h_floorlamp_c.webp",
+          "path": "assets/apa_mp_h_floorlamp_c.webp",
+          "type": "file",
+          "size": 8220
+        },
+        {
           "name": "apa_mp_h_kit_kitchen_01_a.jpg",
           "path": "assets/apa_mp_h_kit_kitchen_01_a.jpg",
           "type": "file",
           "size": 62842
+        },
+        {
+          "name": "apa_mp_h_kit_kitchen_01_a.webp",
+          "path": "assets/apa_mp_h_kit_kitchen_01_a.webp",
+          "type": "file",
+          "size": 25880
         },
         {
           "name": "apa_mp_h_kit_kitchen_01_b.jpg",
@@ -792,10 +1572,22 @@
           "size": 71794
         },
         {
+          "name": "apa_mp_h_kit_kitchen_01_b.webp",
+          "path": "assets/apa_mp_h_kit_kitchen_01_b.webp",
+          "type": "file",
+          "size": 32224
+        },
+        {
           "name": "apa_mp_h_lampbulb_multiple_a.jpg",
           "path": "assets/apa_mp_h_lampbulb_multiple_a.jpg",
           "type": "file",
           "size": 30638
+        },
+        {
+          "name": "apa_mp_h_lampbulb_multiple_a.webp",
+          "path": "assets/apa_mp_h_lampbulb_multiple_a.webp",
+          "type": "file",
+          "size": 11856
         },
         {
           "name": "apa_mp_h_lit_floorlamp_01.jpg",
@@ -804,10 +1596,22 @@
           "size": 21143
         },
         {
+          "name": "apa_mp_h_lit_floorlamp_01.webp",
+          "path": "assets/apa_mp_h_lit_floorlamp_01.webp",
+          "type": "file",
+          "size": 7330
+        },
+        {
           "name": "apa_mp_h_lit_floorlamp_02.jpg",
           "path": "assets/apa_mp_h_lit_floorlamp_02.jpg",
           "type": "file",
           "size": 18200
+        },
+        {
+          "name": "apa_mp_h_lit_floorlamp_02.webp",
+          "path": "assets/apa_mp_h_lit_floorlamp_02.webp",
+          "type": "file",
+          "size": 6208
         },
         {
           "name": "apa_mp_h_lit_floorlamp_03.jpg",
@@ -816,10 +1620,22 @@
           "size": 21503
         },
         {
+          "name": "apa_mp_h_lit_floorlamp_03.webp",
+          "path": "assets/apa_mp_h_lit_floorlamp_03.webp",
+          "type": "file",
+          "size": 7206
+        },
+        {
           "name": "apa_mp_h_lit_floorlamp_05.jpg",
           "path": "assets/apa_mp_h_lit_floorlamp_05.jpg",
           "type": "file",
           "size": 29140
+        },
+        {
+          "name": "apa_mp_h_lit_floorlamp_05.webp",
+          "path": "assets/apa_mp_h_lit_floorlamp_05.webp",
+          "type": "file",
+          "size": 10428
         },
         {
           "name": "apa_mp_h_lit_floorlamp_06.jpg",
@@ -828,10 +1644,22 @@
           "size": 24632
         },
         {
+          "name": "apa_mp_h_lit_floorlamp_06.webp",
+          "path": "assets/apa_mp_h_lit_floorlamp_06.webp",
+          "type": "file",
+          "size": 8806
+        },
+        {
           "name": "apa_mp_h_lit_floorlamp_10.jpg",
           "path": "assets/apa_mp_h_lit_floorlamp_10.jpg",
           "type": "file",
           "size": 25114
+        },
+        {
+          "name": "apa_mp_h_lit_floorlamp_10.webp",
+          "path": "assets/apa_mp_h_lit_floorlamp_10.webp",
+          "type": "file",
+          "size": 9076
         },
         {
           "name": "apa_mp_h_lit_floorlamp_13.jpg",
@@ -840,10 +1668,22 @@
           "size": 22033
         },
         {
+          "name": "apa_mp_h_lit_floorlamp_13.webp",
+          "path": "assets/apa_mp_h_lit_floorlamp_13.webp",
+          "type": "file",
+          "size": 7342
+        },
+        {
           "name": "apa_mp_h_lit_floorlamp_17.jpg",
           "path": "assets/apa_mp_h_lit_floorlamp_17.jpg",
           "type": "file",
           "size": 24699
+        },
+        {
+          "name": "apa_mp_h_lit_floorlamp_17.webp",
+          "path": "assets/apa_mp_h_lit_floorlamp_17.webp",
+          "type": "file",
+          "size": 9070
         },
         {
           "name": "apa_mp_h_lit_floorlampnight_05.jpg",
@@ -852,10 +1692,22 @@
           "size": 29321
         },
         {
+          "name": "apa_mp_h_lit_floorlampnight_05.webp",
+          "path": "assets/apa_mp_h_lit_floorlampnight_05.webp",
+          "type": "file",
+          "size": 10492
+        },
+        {
           "name": "apa_mp_h_lit_floorlampnight_07.jpg",
           "path": "assets/apa_mp_h_lit_floorlampnight_07.jpg",
           "type": "file",
           "size": 24517
+        },
+        {
+          "name": "apa_mp_h_lit_floorlampnight_07.webp",
+          "path": "assets/apa_mp_h_lit_floorlampnight_07.webp",
+          "type": "file",
+          "size": 8372
         },
         {
           "name": "apa_mp_h_lit_floorlampnight_14.jpg",
@@ -864,10 +1716,22 @@
           "size": 24152
         },
         {
+          "name": "apa_mp_h_lit_floorlampnight_14.webp",
+          "path": "assets/apa_mp_h_lit_floorlampnight_14.webp",
+          "type": "file",
+          "size": 8658
+        },
+        {
           "name": "apa_mp_h_lit_lamptable_005.jpg",
           "path": "assets/apa_mp_h_lit_lamptable_005.jpg",
           "type": "file",
           "size": 21278
+        },
+        {
+          "name": "apa_mp_h_lit_lamptable_005.webp",
+          "path": "assets/apa_mp_h_lit_lamptable_005.webp",
+          "type": "file",
+          "size": 7122
         },
         {
           "name": "apa_mp_h_lit_lamptable_02.jpg",
@@ -876,10 +1740,22 @@
           "size": 20041
         },
         {
+          "name": "apa_mp_h_lit_lamptable_02.webp",
+          "path": "assets/apa_mp_h_lit_lamptable_02.webp",
+          "type": "file",
+          "size": 7134
+        },
+        {
           "name": "apa_mp_h_lit_lamptable_04.jpg",
           "path": "assets/apa_mp_h_lit_lamptable_04.jpg",
           "type": "file",
           "size": 23543
+        },
+        {
+          "name": "apa_mp_h_lit_lamptable_04.webp",
+          "path": "assets/apa_mp_h_lit_lamptable_04.webp",
+          "type": "file",
+          "size": 8186
         },
         {
           "name": "apa_mp_h_lit_lamptable_09.jpg",
@@ -888,10 +1764,22 @@
           "size": 20276
         },
         {
+          "name": "apa_mp_h_lit_lamptable_09.webp",
+          "path": "assets/apa_mp_h_lit_lamptable_09.webp",
+          "type": "file",
+          "size": 6944
+        },
+        {
           "name": "apa_mp_h_lit_lamptable_14.jpg",
           "path": "assets/apa_mp_h_lit_lamptable_14.jpg",
           "type": "file",
           "size": 20592
+        },
+        {
+          "name": "apa_mp_h_lit_lamptable_14.webp",
+          "path": "assets/apa_mp_h_lit_lamptable_14.webp",
+          "type": "file",
+          "size": 7138
         },
         {
           "name": "apa_mp_h_lit_lamptable_17.jpg",
@@ -900,10 +1788,22 @@
           "size": 25833
         },
         {
+          "name": "apa_mp_h_lit_lamptable_17.webp",
+          "path": "assets/apa_mp_h_lit_lamptable_17.webp",
+          "type": "file",
+          "size": 9470
+        },
+        {
           "name": "apa_mp_h_lit_lamptable_21.jpg",
           "path": "assets/apa_mp_h_lit_lamptable_21.jpg",
           "type": "file",
           "size": 20828
+        },
+        {
+          "name": "apa_mp_h_lit_lamptable_21.webp",
+          "path": "assets/apa_mp_h_lit_lamptable_21.webp",
+          "type": "file",
+          "size": 7030
         },
         {
           "name": "apa_mp_h_lit_lamptablenight_16.jpg",
@@ -912,10 +1812,22 @@
           "size": 23841
         },
         {
+          "name": "apa_mp_h_lit_lamptablenight_16.webp",
+          "path": "assets/apa_mp_h_lit_lamptablenight_16.webp",
+          "type": "file",
+          "size": 8406
+        },
+        {
           "name": "apa_mp_h_lit_lamptablenight_24.jpg",
           "path": "assets/apa_mp_h_lit_lamptablenight_24.jpg",
           "type": "file",
           "size": 22075
+        },
+        {
+          "name": "apa_mp_h_lit_lamptablenight_24.webp",
+          "path": "assets/apa_mp_h_lit_lamptablenight_24.webp",
+          "type": "file",
+          "size": 7472
         },
         {
           "name": "apa_mp_h_lit_lightpendant_01.jpg",
@@ -924,10 +1836,22 @@
           "size": 23433
         },
         {
+          "name": "apa_mp_h_lit_lightpendant_01.webp",
+          "path": "assets/apa_mp_h_lit_lightpendant_01.webp",
+          "type": "file",
+          "size": 8274
+        },
+        {
           "name": "apa_mp_h_lit_lightpendant_05.jpg",
           "path": "assets/apa_mp_h_lit_lightpendant_05.jpg",
           "type": "file",
           "size": 30843
+        },
+        {
+          "name": "apa_mp_h_lit_lightpendant_05.webp",
+          "path": "assets/apa_mp_h_lit_lightpendant_05.webp",
+          "type": "file",
+          "size": 10386
         },
         {
           "name": "apa_mp_h_lit_lightpendant_05b.jpg",
@@ -936,10 +1860,22 @@
           "size": 33092
         },
         {
+          "name": "apa_mp_h_lit_lightpendant_05b.webp",
+          "path": "assets/apa_mp_h_lit_lightpendant_05b.webp",
+          "type": "file",
+          "size": 12542
+        },
+        {
           "name": "apa_mp_h_stn_chairarm_01.jpg",
           "path": "assets/apa_mp_h_stn_chairarm_01.jpg",
           "type": "file",
           "size": 28955
+        },
+        {
+          "name": "apa_mp_h_stn_chairarm_01.webp",
+          "path": "assets/apa_mp_h_stn_chairarm_01.webp",
+          "type": "file",
+          "size": 9632
         },
         {
           "name": "apa_mp_h_stn_chairarm_02.jpg",
@@ -948,10 +1884,22 @@
           "size": 30476
         },
         {
+          "name": "apa_mp_h_stn_chairarm_02.webp",
+          "path": "assets/apa_mp_h_stn_chairarm_02.webp",
+          "type": "file",
+          "size": 10728
+        },
+        {
           "name": "apa_mp_h_stn_chairarm_03.jpg",
           "path": "assets/apa_mp_h_stn_chairarm_03.jpg",
           "type": "file",
           "size": 26955
+        },
+        {
+          "name": "apa_mp_h_stn_chairarm_03.webp",
+          "path": "assets/apa_mp_h_stn_chairarm_03.webp",
+          "type": "file",
+          "size": 8774
         },
         {
           "name": "apa_mp_h_stn_chairarm_09.jpg",
@@ -960,10 +1908,22 @@
           "size": 29891
         },
         {
+          "name": "apa_mp_h_stn_chairarm_09.webp",
+          "path": "assets/apa_mp_h_stn_chairarm_09.webp",
+          "type": "file",
+          "size": 10902
+        },
+        {
           "name": "apa_mp_h_stn_chairarm_11.jpg",
           "path": "assets/apa_mp_h_stn_chairarm_11.jpg",
           "type": "file",
           "size": 29183
+        },
+        {
+          "name": "apa_mp_h_stn_chairarm_11.webp",
+          "path": "assets/apa_mp_h_stn_chairarm_11.webp",
+          "type": "file",
+          "size": 10066
         },
         {
           "name": "apa_mp_h_stn_chairarm_12.jpg",
@@ -972,10 +1932,22 @@
           "size": 26475
         },
         {
+          "name": "apa_mp_h_stn_chairarm_12.webp",
+          "path": "assets/apa_mp_h_stn_chairarm_12.webp",
+          "type": "file",
+          "size": 8778
+        },
+        {
           "name": "apa_mp_h_stn_chairarm_13.jpg",
           "path": "assets/apa_mp_h_stn_chairarm_13.jpg",
           "type": "file",
           "size": 27831
+        },
+        {
+          "name": "apa_mp_h_stn_chairarm_13.webp",
+          "path": "assets/apa_mp_h_stn_chairarm_13.webp",
+          "type": "file",
+          "size": 10022
         },
         {
           "name": "apa_mp_h_stn_chairarm_23.jpg",
@@ -984,10 +1956,22 @@
           "size": 27130
         },
         {
+          "name": "apa_mp_h_stn_chairarm_23.webp",
+          "path": "assets/apa_mp_h_stn_chairarm_23.webp",
+          "type": "file",
+          "size": 9042
+        },
+        {
           "name": "apa_mp_h_stn_chairarm_24.jpg",
           "path": "assets/apa_mp_h_stn_chairarm_24.jpg",
           "type": "file",
           "size": 28787
+        },
+        {
+          "name": "apa_mp_h_stn_chairarm_24.webp",
+          "path": "assets/apa_mp_h_stn_chairarm_24.webp",
+          "type": "file",
+          "size": 9838
         },
         {
           "name": "apa_mp_h_stn_chairarm_25.jpg",
@@ -996,10 +1980,22 @@
           "size": 30126
         },
         {
+          "name": "apa_mp_h_stn_chairarm_25.webp",
+          "path": "assets/apa_mp_h_stn_chairarm_25.webp",
+          "type": "file",
+          "size": 10084
+        },
+        {
           "name": "apa_mp_h_stn_chairarm_26.jpg",
           "path": "assets/apa_mp_h_stn_chairarm_26.jpg",
           "type": "file",
           "size": 30379
+        },
+        {
+          "name": "apa_mp_h_stn_chairarm_26.webp",
+          "path": "assets/apa_mp_h_stn_chairarm_26.webp",
+          "type": "file",
+          "size": 10332
         },
         {
           "name": "apa_mp_h_stn_chairstool_12.jpg",
@@ -1008,10 +2004,22 @@
           "size": 22714
         },
         {
+          "name": "apa_mp_h_stn_chairstool_12.webp",
+          "path": "assets/apa_mp_h_stn_chairstool_12.webp",
+          "type": "file",
+          "size": 7498
+        },
+        {
           "name": "apa_mp_h_stn_chairstrip_01.jpg",
           "path": "assets/apa_mp_h_stn_chairstrip_01.jpg",
           "type": "file",
           "size": 32955
+        },
+        {
+          "name": "apa_mp_h_stn_chairstrip_01.webp",
+          "path": "assets/apa_mp_h_stn_chairstrip_01.webp",
+          "type": "file",
+          "size": 11434
         },
         {
           "name": "apa_mp_h_stn_chairstrip_02.jpg",
@@ -1020,10 +2028,22 @@
           "size": 32613
         },
         {
+          "name": "apa_mp_h_stn_chairstrip_02.webp",
+          "path": "assets/apa_mp_h_stn_chairstrip_02.webp",
+          "type": "file",
+          "size": 11274
+        },
+        {
           "name": "apa_mp_h_stn_chairstrip_03.jpg",
           "path": "assets/apa_mp_h_stn_chairstrip_03.jpg",
           "type": "file",
           "size": 28656
+        },
+        {
+          "name": "apa_mp_h_stn_chairstrip_03.webp",
+          "path": "assets/apa_mp_h_stn_chairstrip_03.webp",
+          "type": "file",
+          "size": 9638
         },
         {
           "name": "apa_mp_h_stn_chairstrip_04.jpg",
@@ -1032,10 +2052,22 @@
           "size": 30184
         },
         {
+          "name": "apa_mp_h_stn_chairstrip_04.webp",
+          "path": "assets/apa_mp_h_stn_chairstrip_04.webp",
+          "type": "file",
+          "size": 10240
+        },
+        {
           "name": "apa_mp_h_stn_chairstrip_05.jpg",
           "path": "assets/apa_mp_h_stn_chairstrip_05.jpg",
           "type": "file",
           "size": 29975
+        },
+        {
+          "name": "apa_mp_h_stn_chairstrip_05.webp",
+          "path": "assets/apa_mp_h_stn_chairstrip_05.webp",
+          "type": "file",
+          "size": 9996
         },
         {
           "name": "apa_mp_h_stn_chairstrip_06.jpg",
@@ -1044,10 +2076,22 @@
           "size": 32388
         },
         {
+          "name": "apa_mp_h_stn_chairstrip_06.webp",
+          "path": "assets/apa_mp_h_stn_chairstrip_06.webp",
+          "type": "file",
+          "size": 11144
+        },
+        {
           "name": "apa_mp_h_stn_chairstrip_07.jpg",
           "path": "assets/apa_mp_h_stn_chairstrip_07.jpg",
           "type": "file",
           "size": 33918
+        },
+        {
+          "name": "apa_mp_h_stn_chairstrip_07.webp",
+          "path": "assets/apa_mp_h_stn_chairstrip_07.webp",
+          "type": "file",
+          "size": 12004
         },
         {
           "name": "apa_mp_h_stn_chairstrip_08.jpg",
@@ -1056,10 +2100,22 @@
           "size": 30506
         },
         {
+          "name": "apa_mp_h_stn_chairstrip_08.webp",
+          "path": "assets/apa_mp_h_stn_chairstrip_08.webp",
+          "type": "file",
+          "size": 10232
+        },
+        {
           "name": "apa_mp_h_stn_foot_stool_01.jpg",
           "path": "assets/apa_mp_h_stn_foot_stool_01.jpg",
           "type": "file",
           "size": 29162
+        },
+        {
+          "name": "apa_mp_h_stn_foot_stool_01.webp",
+          "path": "assets/apa_mp_h_stn_foot_stool_01.webp",
+          "type": "file",
+          "size": 9772
         },
         {
           "name": "apa_mp_h_stn_foot_stool_02.jpg",
@@ -1068,10 +2124,22 @@
           "size": 29167
         },
         {
+          "name": "apa_mp_h_stn_foot_stool_02.webp",
+          "path": "assets/apa_mp_h_stn_foot_stool_02.webp",
+          "type": "file",
+          "size": 10028
+        },
+        {
           "name": "apa_mp_h_stn_sofa2seat_02.jpg",
           "path": "assets/apa_mp_h_stn_sofa2seat_02.jpg",
           "type": "file",
           "size": 31348
+        },
+        {
+          "name": "apa_mp_h_stn_sofa2seat_02.webp",
+          "path": "assets/apa_mp_h_stn_sofa2seat_02.webp",
+          "type": "file",
+          "size": 9828
         },
         {
           "name": "apa_mp_h_stn_sofa_daybed_01.jpg",
@@ -1080,10 +2148,22 @@
           "size": 33388
         },
         {
+          "name": "apa_mp_h_stn_sofa_daybed_01.webp",
+          "path": "assets/apa_mp_h_stn_sofa_daybed_01.webp",
+          "type": "file",
+          "size": 11942
+        },
+        {
           "name": "apa_mp_h_stn_sofa_daybed_02.jpg",
           "path": "assets/apa_mp_h_stn_sofa_daybed_02.jpg",
           "type": "file",
           "size": 29050
+        },
+        {
+          "name": "apa_mp_h_stn_sofa_daybed_02.webp",
+          "path": "assets/apa_mp_h_stn_sofa_daybed_02.webp",
+          "type": "file",
+          "size": 9988
         },
         {
           "name": "apa_mp_h_stn_sofacorn_01.jpg",
@@ -1092,10 +2172,22 @@
           "size": 35733
         },
         {
+          "name": "apa_mp_h_stn_sofacorn_01.webp",
+          "path": "assets/apa_mp_h_stn_sofacorn_01.webp",
+          "type": "file",
+          "size": 11786
+        },
+        {
           "name": "apa_mp_h_stn_sofacorn_05.jpg",
           "path": "assets/apa_mp_h_stn_sofacorn_05.jpg",
           "type": "file",
           "size": 35506
+        },
+        {
+          "name": "apa_mp_h_stn_sofacorn_05.webp",
+          "path": "assets/apa_mp_h_stn_sofacorn_05.webp",
+          "type": "file",
+          "size": 11386
         },
         {
           "name": "apa_mp_h_stn_sofacorn_06.jpg",
@@ -1104,10 +2196,22 @@
           "size": 34435
         },
         {
+          "name": "apa_mp_h_stn_sofacorn_06.webp",
+          "path": "assets/apa_mp_h_stn_sofacorn_06.webp",
+          "type": "file",
+          "size": 11118
+        },
+        {
           "name": "apa_mp_h_stn_sofacorn_07.jpg",
           "path": "assets/apa_mp_h_stn_sofacorn_07.jpg",
           "type": "file",
           "size": 32563
+        },
+        {
+          "name": "apa_mp_h_stn_sofacorn_07.webp",
+          "path": "assets/apa_mp_h_stn_sofacorn_07.webp",
+          "type": "file",
+          "size": 10200
         },
         {
           "name": "apa_mp_h_stn_sofacorn_08.jpg",
@@ -1116,10 +2220,22 @@
           "size": 34313
         },
         {
+          "name": "apa_mp_h_stn_sofacorn_08.webp",
+          "path": "assets/apa_mp_h_stn_sofacorn_08.webp",
+          "type": "file",
+          "size": 10932
+        },
+        {
           "name": "apa_mp_h_stn_sofacorn_09.jpg",
           "path": "assets/apa_mp_h_stn_sofacorn_09.jpg",
           "type": "file",
           "size": 32938
+        },
+        {
+          "name": "apa_mp_h_stn_sofacorn_09.webp",
+          "path": "assets/apa_mp_h_stn_sofacorn_09.webp",
+          "type": "file",
+          "size": 10362
         },
         {
           "name": "apa_mp_h_stn_sofacorn_10.jpg",
@@ -1128,10 +2244,22 @@
           "size": 33681
         },
         {
+          "name": "apa_mp_h_stn_sofacorn_10.webp",
+          "path": "assets/apa_mp_h_stn_sofacorn_10.webp",
+          "type": "file",
+          "size": 11094
+        },
+        {
           "name": "apa_mp_h_str_avunitl_01_b.jpg",
           "path": "assets/apa_mp_h_str_avunitl_01_b.jpg",
           "type": "file",
           "size": 52342
+        },
+        {
+          "name": "apa_mp_h_str_avunitl_01_b.webp",
+          "path": "assets/apa_mp_h_str_avunitl_01_b.webp",
+          "type": "file",
+          "size": 19910
         },
         {
           "name": "apa_mp_h_str_avunitl_04.jpg",
@@ -1140,10 +2268,22 @@
           "size": 51419
         },
         {
+          "name": "apa_mp_h_str_avunitl_04.webp",
+          "path": "assets/apa_mp_h_str_avunitl_04.webp",
+          "type": "file",
+          "size": 19524
+        },
+        {
           "name": "apa_mp_h_str_avunitm_01.jpg",
           "path": "assets/apa_mp_h_str_avunitm_01.jpg",
           "type": "file",
           "size": 39774
+        },
+        {
+          "name": "apa_mp_h_str_avunitm_01.webp",
+          "path": "assets/apa_mp_h_str_avunitm_01.webp",
+          "type": "file",
+          "size": 14990
         },
         {
           "name": "apa_mp_h_str_avunitm_03.jpg",
@@ -1152,10 +2292,22 @@
           "size": 39670
         },
         {
+          "name": "apa_mp_h_str_avunitm_03.webp",
+          "path": "assets/apa_mp_h_str_avunitm_03.webp",
+          "type": "file",
+          "size": 14594
+        },
+        {
           "name": "apa_mp_h_str_avunits_01.jpg",
           "path": "assets/apa_mp_h_str_avunits_01.jpg",
           "type": "file",
           "size": 35982
+        },
+        {
+          "name": "apa_mp_h_str_avunits_01.webp",
+          "path": "assets/apa_mp_h_str_avunits_01.webp",
+          "type": "file",
+          "size": 12894
         },
         {
           "name": "apa_mp_h_str_avunits_04.jpg",
@@ -1164,10 +2316,22 @@
           "size": 44551
         },
         {
+          "name": "apa_mp_h_str_avunits_04.webp",
+          "path": "assets/apa_mp_h_str_avunits_04.webp",
+          "type": "file",
+          "size": 17428
+        },
+        {
           "name": "apa_mp_h_str_shelffloorm_02.jpg",
           "path": "assets/apa_mp_h_str_shelffloorm_02.jpg",
           "type": "file",
           "size": 49932
+        },
+        {
+          "name": "apa_mp_h_str_shelffloorm_02.webp",
+          "path": "assets/apa_mp_h_str_shelffloorm_02.webp",
+          "type": "file",
+          "size": 18760
         },
         {
           "name": "apa_mp_h_str_shelffreel_01.jpg",
@@ -1176,10 +2340,22 @@
           "size": 51120
         },
         {
+          "name": "apa_mp_h_str_shelffreel_01.webp",
+          "path": "assets/apa_mp_h_str_shelffreel_01.webp",
+          "type": "file",
+          "size": 18198
+        },
+        {
           "name": "apa_mp_h_str_shelfwallm_01.jpg",
           "path": "assets/apa_mp_h_str_shelfwallm_01.jpg",
           "type": "file",
           "size": 37375
+        },
+        {
+          "name": "apa_mp_h_str_shelfwallm_01.webp",
+          "path": "assets/apa_mp_h_str_shelfwallm_01.webp",
+          "type": "file",
+          "size": 12528
         },
         {
           "name": "apa_mp_h_str_sideboardl_06.jpg",
@@ -1188,10 +2364,22 @@
           "size": 29375
         },
         {
+          "name": "apa_mp_h_str_sideboardl_06.webp",
+          "path": "assets/apa_mp_h_str_sideboardl_06.webp",
+          "type": "file",
+          "size": 9692
+        },
+        {
           "name": "apa_mp_h_str_sideboardl_09.jpg",
           "path": "assets/apa_mp_h_str_sideboardl_09.jpg",
           "type": "file",
           "size": 35099
+        },
+        {
+          "name": "apa_mp_h_str_sideboardl_09.webp",
+          "path": "assets/apa_mp_h_str_sideboardl_09.webp",
+          "type": "file",
+          "size": 12400
         },
         {
           "name": "apa_mp_h_str_sideboardl_11.jpg",
@@ -1200,10 +2388,22 @@
           "size": 36658
         },
         {
+          "name": "apa_mp_h_str_sideboardl_11.webp",
+          "path": "assets/apa_mp_h_str_sideboardl_11.webp",
+          "type": "file",
+          "size": 12702
+        },
+        {
           "name": "apa_mp_h_str_sideboardl_13.jpg",
           "path": "assets/apa_mp_h_str_sideboardl_13.jpg",
           "type": "file",
           "size": 32123
+        },
+        {
+          "name": "apa_mp_h_str_sideboardl_13.webp",
+          "path": "assets/apa_mp_h_str_sideboardl_13.webp",
+          "type": "file",
+          "size": 10944
         },
         {
           "name": "apa_mp_h_str_sideboardl_14.jpg",
@@ -1212,10 +2412,22 @@
           "size": 35638
         },
         {
+          "name": "apa_mp_h_str_sideboardl_14.webp",
+          "path": "assets/apa_mp_h_str_sideboardl_14.webp",
+          "type": "file",
+          "size": 12908
+        },
+        {
           "name": "apa_mp_h_str_sideboardm_02.jpg",
           "path": "assets/apa_mp_h_str_sideboardm_02.jpg",
           "type": "file",
           "size": 39288
+        },
+        {
+          "name": "apa_mp_h_str_sideboardm_02.webp",
+          "path": "assets/apa_mp_h_str_sideboardm_02.webp",
+          "type": "file",
+          "size": 14078
         },
         {
           "name": "apa_mp_h_str_sideboardm_03.jpg",
@@ -1224,10 +2436,22 @@
           "size": 29462
         },
         {
+          "name": "apa_mp_h_str_sideboardm_03.webp",
+          "path": "assets/apa_mp_h_str_sideboardm_03.webp",
+          "type": "file",
+          "size": 9704
+        },
+        {
           "name": "apa_mp_h_str_sideboards_01.jpg",
           "path": "assets/apa_mp_h_str_sideboards_01.jpg",
           "type": "file",
           "size": 31319
+        },
+        {
+          "name": "apa_mp_h_str_sideboards_01.webp",
+          "path": "assets/apa_mp_h_str_sideboards_01.webp",
+          "type": "file",
+          "size": 10542
         },
         {
           "name": "apa_mp_h_str_sideboards_02.jpg",
@@ -1236,10 +2460,22 @@
           "size": 28568
         },
         {
+          "name": "apa_mp_h_str_sideboards_02.webp",
+          "path": "assets/apa_mp_h_str_sideboards_02.webp",
+          "type": "file",
+          "size": 9774
+        },
+        {
           "name": "apa_mp_h_tab_coffee_07.jpg",
           "path": "assets/apa_mp_h_tab_coffee_07.jpg",
           "type": "file",
           "size": 28578
+        },
+        {
+          "name": "apa_mp_h_tab_coffee_07.webp",
+          "path": "assets/apa_mp_h_tab_coffee_07.webp",
+          "type": "file",
+          "size": 9314
         },
         {
           "name": "apa_mp_h_tab_coffee_08.jpg",
@@ -1248,10 +2484,22 @@
           "size": 26874
         },
         {
+          "name": "apa_mp_h_tab_coffee_08.webp",
+          "path": "assets/apa_mp_h_tab_coffee_08.webp",
+          "type": "file",
+          "size": 8498
+        },
+        {
           "name": "apa_mp_h_tab_sidelrg_01.jpg",
           "path": "assets/apa_mp_h_tab_sidelrg_01.jpg",
           "type": "file",
           "size": 28675
+        },
+        {
+          "name": "apa_mp_h_tab_sidelrg_01.webp",
+          "path": "assets/apa_mp_h_tab_sidelrg_01.webp",
+          "type": "file",
+          "size": 9764
         },
         {
           "name": "apa_mp_h_tab_sidelrg_02.jpg",
@@ -1260,10 +2508,22 @@
           "size": 27487
         },
         {
+          "name": "apa_mp_h_tab_sidelrg_02.webp",
+          "path": "assets/apa_mp_h_tab_sidelrg_02.webp",
+          "type": "file",
+          "size": 9140
+        },
+        {
           "name": "apa_mp_h_tab_sidelrg_04.jpg",
           "path": "assets/apa_mp_h_tab_sidelrg_04.jpg",
           "type": "file",
           "size": 24287
+        },
+        {
+          "name": "apa_mp_h_tab_sidelrg_04.webp",
+          "path": "assets/apa_mp_h_tab_sidelrg_04.webp",
+          "type": "file",
+          "size": 8036
         },
         {
           "name": "apa_mp_h_tab_sidelrg_07.jpg",
@@ -1272,10 +2532,22 @@
           "size": 26791
         },
         {
+          "name": "apa_mp_h_tab_sidelrg_07.webp",
+          "path": "assets/apa_mp_h_tab_sidelrg_07.webp",
+          "type": "file",
+          "size": 9096
+        },
+        {
           "name": "apa_mp_h_tab_sidesml_01.jpg",
           "path": "assets/apa_mp_h_tab_sidesml_01.jpg",
           "type": "file",
           "size": 29297
+        },
+        {
+          "name": "apa_mp_h_tab_sidesml_01.webp",
+          "path": "assets/apa_mp_h_tab_sidesml_01.webp",
+          "type": "file",
+          "size": 10270
         },
         {
           "name": "apa_mp_h_tab_sidesml_02.jpg",
@@ -1284,10 +2556,22 @@
           "size": 24647
         },
         {
+          "name": "apa_mp_h_tab_sidesml_02.webp",
+          "path": "assets/apa_mp_h_tab_sidesml_02.webp",
+          "type": "file",
+          "size": 8222
+        },
+        {
           "name": "apa_mp_h_table_lamp_int_08.jpg",
           "path": "assets/apa_mp_h_table_lamp_int_08.jpg",
           "type": "file",
           "size": 22781
+        },
+        {
+          "name": "apa_mp_h_table_lamp_int_08.webp",
+          "path": "assets/apa_mp_h_table_lamp_int_08.webp",
+          "type": "file",
+          "size": 7702
         },
         {
           "name": "apa_mp_h_yacht_armchair_01.jpg",
@@ -1296,10 +2580,22 @@
           "size": 30256
         },
         {
+          "name": "apa_mp_h_yacht_armchair_01.webp",
+          "path": "assets/apa_mp_h_yacht_armchair_01.webp",
+          "type": "file",
+          "size": 9960
+        },
+        {
           "name": "apa_mp_h_yacht_armchair_03.jpg",
           "path": "assets/apa_mp_h_yacht_armchair_03.jpg",
           "type": "file",
           "size": 26491
+        },
+        {
+          "name": "apa_mp_h_yacht_armchair_03.webp",
+          "path": "assets/apa_mp_h_yacht_armchair_03.webp",
+          "type": "file",
+          "size": 8656
         },
         {
           "name": "apa_mp_h_yacht_armchair_04.jpg",
@@ -1308,10 +2604,22 @@
           "size": 30195
         },
         {
+          "name": "apa_mp_h_yacht_armchair_04.webp",
+          "path": "assets/apa_mp_h_yacht_armchair_04.webp",
+          "type": "file",
+          "size": 9764
+        },
+        {
           "name": "apa_mp_h_yacht_barstool_01.jpg",
           "path": "assets/apa_mp_h_yacht_barstool_01.jpg",
           "type": "file",
           "size": 25640
+        },
+        {
+          "name": "apa_mp_h_yacht_barstool_01.webp",
+          "path": "assets/apa_mp_h_yacht_barstool_01.webp",
+          "type": "file",
+          "size": 8798
         },
         {
           "name": "apa_mp_h_yacht_bed_01.jpg",
@@ -1320,10 +2628,22 @@
           "size": 53756
         },
         {
+          "name": "apa_mp_h_yacht_bed_01.webp",
+          "path": "assets/apa_mp_h_yacht_bed_01.webp",
+          "type": "file",
+          "size": 18958
+        },
+        {
           "name": "apa_mp_h_yacht_bed_02.jpg",
           "path": "assets/apa_mp_h_yacht_bed_02.jpg",
           "type": "file",
           "size": 51419
+        },
+        {
+          "name": "apa_mp_h_yacht_bed_02.webp",
+          "path": "assets/apa_mp_h_yacht_bed_02.webp",
+          "type": "file",
+          "size": 17310
         },
         {
           "name": "apa_mp_h_yacht_coffee_table_01.jpg",
@@ -1332,10 +2652,22 @@
           "size": 31335
         },
         {
+          "name": "apa_mp_h_yacht_coffee_table_01.webp",
+          "path": "assets/apa_mp_h_yacht_coffee_table_01.webp",
+          "type": "file",
+          "size": 10306
+        },
+        {
           "name": "apa_mp_h_yacht_coffee_table_02.jpg",
           "path": "assets/apa_mp_h_yacht_coffee_table_02.jpg",
           "type": "file",
           "size": 33105
+        },
+        {
+          "name": "apa_mp_h_yacht_coffee_table_02.webp",
+          "path": "assets/apa_mp_h_yacht_coffee_table_02.webp",
+          "type": "file",
+          "size": 11154
         },
         {
           "name": "apa_mp_h_yacht_floor_lamp_01.jpg",
@@ -1344,10 +2676,22 @@
           "size": 22021
         },
         {
+          "name": "apa_mp_h_yacht_floor_lamp_01.webp",
+          "path": "assets/apa_mp_h_yacht_floor_lamp_01.webp",
+          "type": "file",
+          "size": 7378
+        },
+        {
           "name": "apa_mp_h_yacht_side_table_01.jpg",
           "path": "assets/apa_mp_h_yacht_side_table_01.jpg",
           "type": "file",
           "size": 28534
+        },
+        {
+          "name": "apa_mp_h_yacht_side_table_01.webp",
+          "path": "assets/apa_mp_h_yacht_side_table_01.webp",
+          "type": "file",
+          "size": 8930
         },
         {
           "name": "apa_mp_h_yacht_side_table_02.jpg",
@@ -1356,16 +2700,34 @@
           "size": 27403
         },
         {
+          "name": "apa_mp_h_yacht_side_table_02.webp",
+          "path": "assets/apa_mp_h_yacht_side_table_02.webp",
+          "type": "file",
+          "size": 9616
+        },
+        {
           "name": "apa_mp_h_yacht_sofa_01.jpg",
           "path": "assets/apa_mp_h_yacht_sofa_01.jpg",
           "type": "file",
           "size": 39434
         },
         {
+          "name": "apa_mp_h_yacht_sofa_01.webp",
+          "path": "assets/apa_mp_h_yacht_sofa_01.webp",
+          "type": "file",
+          "size": 14028
+        },
+        {
           "name": "apa_mp_h_yacht_sofa_02.jpg",
           "path": "assets/apa_mp_h_yacht_sofa_02.jpg",
           "type": "file",
           "size": 34874
+        },
+        {
+          "name": "apa_mp_h_yacht_sofa_02.webp",
+          "path": "assets/apa_mp_h_yacht_sofa_02.webp",
+          "type": "file",
+          "size": 11296
         },
         {
           "name": "apa_mp_h_yacht_stool_01.jpg",
@@ -84533,7 +85895,13 @@
           "size": 9505
         }
       ]
+    },
+    {
+      "name": "convert_to_webp.py",
+      "path": "convert_to_webp.py",
+      "type": "file",
+      "size": 2722
     }
   ],
-  "generated_at": 1769954678.72402
+  "generated_at": 1770241506.8908455
 }
